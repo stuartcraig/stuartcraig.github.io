@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Stuart Craig"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Doctoral student at Wharton, Associate Fellow at LDI"
   location         : "Philadelphia, PA"
-  employer         :
+  employer         : "University of Pennsylvania"
   googlescholar    : "https://scholar.google.com/citations?user=9gSiP2wAAAAJ&hl=en"
   email            : stucraig@upenn.edu
   uri              :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "stuartcraig"
   vine             :
   weibo            :
   xing             :
