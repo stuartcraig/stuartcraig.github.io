@@ -8,3 +8,5 @@ redirect_from:
   - /about.html
 ---
 
+This is an edited about page
+
