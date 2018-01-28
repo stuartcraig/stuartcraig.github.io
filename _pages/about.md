@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Another test edit
+Test again
 
