@@ -12,5 +12,5 @@ redirect_from:
 
 <object data="images/craig_cv_20180109.pdf" type="application/pdf">
         <embed src="images/craig_cv_20180109.pdf" type="application/pdf" />
-   </object>
+</object>
 
