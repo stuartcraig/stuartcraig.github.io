@@ -15,7 +15,7 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
   - title: "Research"
-    url: /research/
+    url: /research.html
     
   - title: "CV"
     url: https://stuartcraig.github.io/images/craig_cv_20180109.pdf
