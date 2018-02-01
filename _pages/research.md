@@ -8,9 +8,9 @@ author_profile: true
 
 
 <H2>Working Papers and Works in Progress</H2>
-Zack Cooper, <b>Stuart Craig</b>, Martin Gaynor, and John Van Reenen. “<a href="http://www.nber.org/papers/w21815">The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured</a>,” NBER Working Paper 21815, December 2015. (under revision)
+Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, and John Van Reenen. “<a href="http://www.nber.org/papers/w21815">The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured</a>,” NBER Working Paper 21815, December 2015. (under revision)
 <br><br>
-<b>Stuart Craig</b>, Keith Ericson, and Amanda Starc. “How Important Is Price variation Between Health Insurers?” (in progress)
+<b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “How Important Is Price variation Between Health Insurers?” (in progress)
 <br><br>
 <b>Stuart Craig</b>, Matthew Grennan, and Ashley Swanson. “Mergers and Hospital Costs: New Evidence from Hospital Input Markets.” (in progress)
 <br><br>
