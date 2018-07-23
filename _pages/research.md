@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+{% seo %}
 
 
 <H2>Working Papers and Works in Progress</H2>
