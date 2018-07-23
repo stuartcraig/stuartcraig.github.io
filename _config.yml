@@ -55,7 +55,8 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &stuartcraig
+  username               : stuartcraig
+  card: summary
 facebook:
   username               :
   app_id                 :
