@@ -13,10 +13,11 @@ Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, and John Van Reenen. “<a hr
 <br><br>
 <b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “How Important Is Price variation Between Health Insurers?” (in progress)
 <br><br>
-<b>Stuart Craig</b>, Matthew Grennan, and Ashley Swanson. “Mergers and Hospital Costs: New Evidence from Hospital Input Markets.” (in progress)
+<b>Stuart V Craig</b>, Matthew Grennan, and Ashley Swanson. “Mergers and Hospital Costs: New Evidence from Hospital Input Markets.” (in progress)
 <br><br>
-Nir Harish, <b>Stuart Craig</b>, Martin Gaynor, Harlan Krumholz, John Van Reenen, and Zack Cooper. “Growth in Physician and Hospital Prices in the US Private Insurance Market, 2002-2011.” (under revision)
+Nir Harish, <b>Stuart V Craig</b>, Martin Gaynor, Harlan Krumholz, John Van Reenen, and Zack Cooper. “Growth in Physician and Hospital Prices in the US Private Insurance Market, 2002-2011.” (under revision)
 <br><br>
+Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, Charles Gray, John Van Reenen. "Spending Growth on the Privately Insured and Medicare Beneficiaries from 2007 to 2014." (under revision)
 
 <H2>Publications</H2>
 Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, Robert G. Valletta and <b>Stuart Craig</b>. “<a href="http://onlinelibrary.wiley.com/doi/10.1111/roiw.12053/full">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, Vol 60, Issue S1: S5-S32.
