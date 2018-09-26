@@ -9,7 +9,7 @@ author_profile: true
 
 
 <H2>Working Papers and Works in Progress</H2>
-<b>Stuart V Craig</b>, Matthew Grennan, and Ashley Swanson. “<a href="http://www.nber.org/papers/w24926">Mergers and Hospital Costs: New Evidence from Hospital Input Markets</a>,” NBER Working Paper 24926, August 2018. (under review)
+<b>Stuart V Craig</b>, Matthew Grennan, and Ashley Swanson. “<a href="http://www.nber.org/papers/w24926">Mergers and Hospital Costs: New Evidence from Hospital Input Markets</a>,” NBER Working Paper 24926, August 2018. Ungated version available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3232902">SSRN</a>. (under review)
 <br><br>
 <b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “How Important Is Price variation Between Health Insurers?” (in progress)
 <br><br>
