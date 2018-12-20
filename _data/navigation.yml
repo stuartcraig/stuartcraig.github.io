@@ -20,5 +20,8 @@ main:
   - title: "CV"
     url: https://stuartcraig.github.io/images/craig_cv_20181030.pdf
     
+  - title: "Code & Data"
+    url: /codeanddata/
+    
 #  - title: "Guide"
 #url: /markdown/
