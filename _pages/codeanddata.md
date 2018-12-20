@@ -7,4 +7,4 @@ author_profile: true
 {% include base_path %}
 {% seo %}
 
-Under construction
+Under construction as of 20181220
