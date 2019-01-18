@@ -18,6 +18,6 @@ Nir Harish, <b>Stuart V Craig</b>, Martin Gaynor, Harlan Krumholz, John Van Reen
 Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, Charles Gray, John Van Reenen. "Spending Growth on the Privately Insured and Medicare Beneficiaries from 2007 to 2014." (under revision)
 
 <H2>Publications</H2>
-Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, and John Van Reenen. “<a href="https://economics.harvard.edu/files/economics/files/ms25288.pdf">The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured</a>,” Quarterly Journal of Economics, forthcoming
+Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, and John Van Reenen. “<a href="https://economics.harvard.edu/files/economics/files/ms25288.pdf">The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured</a>,” Quarterly Journal of Economics, February 2019, Vol 134, Issue 1: 51-107.
 <br><br>
-Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, Robert G. Valletta and <b>Stuart Craig</b>. “<a href="http://onlinelibrary.wiley.com/doi/10.1111/roiw.12053/full">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, Vol 60, Issue S1: S5-S32.
+Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, Robert G. Valletta and <b>Stuart Craig</b>. “<a href="http://onlinelibrary.wiley.com/doi/10.1111/roiw.12053/full">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, July 2014, Vol 60, Issue S1: S5-S32.
