@@ -19,7 +19,7 @@ Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, and John Van Reenen. “<a hr
 <br><br>
 Zack Cooper, <b>Stuart V Craig</b>, Charles Gray, Martin Gaynor, and John Van Reenen. “<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05245">Variation In Health Spending For the Privately Insured From 2007 to 2014.”</a> Health Affairs, February 2019, 38(2): 230-236. 
 <br><br>
-Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen. <a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05424">"Hospital Prices Grew Substantiall Faster Than Physician Prices For Hospital-Based Care In 2007-2014</a>, Health Affairs, February 2019, 38(2): 184-189.
+Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen. <a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05424">"Hospital Prices Grew Substantiall Faster Than Physician Prices For Hospital-Based Care In 2007-2014"</a>, Health Affairs, February 2019, 38(2): 184-189.
 <br><br>
 Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, Charles Gray, John Van Reenen. "Spending Growth on the Privately Insured and Medicare Beneficiaries from 2007 to 2014." (under revision)
 Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, Robert G. Valletta and <b>Stuart Craig</b>. “<a href="http://onlinelibrary.wiley.com/doi/10.1111/roiw.12053/full">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, July 2014, Vol 60, Issue S1: S5-S32.
