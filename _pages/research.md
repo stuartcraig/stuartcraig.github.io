@@ -13,6 +13,9 @@ author_profile: true
 <br><br>
 <b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “<a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a>," NBER Working Paper 25190, October 2018. (under review)
 <br><br>
+Trenton Smith, Steven Stillman, and <b>Stuart Craig</b>. “<a href="http://ftp.iza.org/dp10954.pdf">`Rational Overeating' in a Feast-or-Famine World: Economic Insecurity and the Obesity Epidemic</a>," IZA Discussion Paper 10954: August 2017.
+<br><br>
+
 
 <H2>Publications</H2>
 Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, and John Van Reenen. “<a href="https://economics.harvard.edu/files/economics/files/ms25288.pdf">The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured</a>,” Quarterly Journal of Economics, February 2019, Vol 134, Issue 1: 51-107.
