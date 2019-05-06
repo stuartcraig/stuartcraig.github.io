@@ -13,7 +13,7 @@ author_profile: true
 <br><br>
 <b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “<a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a>," NBER Working Paper 25190, October 2018. (under review)
 <br><br>
-Trenton Smith, Steven Stillman, and <b>Stuart Craig</b>. “<a href="http://ftp.iza.org/dp10954.pdf">`Rational Overeating' in a Feast-or-Famine World: Economic Insecurity and the Obesity Epidemic</a>," IZA Discussion Paper 10954: August 2017.
+Trenton Smith, Steven Stillman, and <b>Stuart Craig</b>. “<a href="http://ftp.iza.org/dp10954.pdf">'Rational Overeating' in a Feast-or-Famine World: Economic Insecurity and the Obesity Epidemic</a>," IZA Discussion Paper 10954: August 2017.
 <br><br>
 
 
