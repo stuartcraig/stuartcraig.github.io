@@ -8,13 +8,11 @@ author_profile: true
 {% seo %}
 
 
-<H2>Working Papers and Works in Progress</H2>
+<H2>Working Papers</H2>
 <b>Stuart V Craig</b>, Matthew Grennan, and Ashley Swanson. “<a href="http://www.nber.org/papers/w24926">Mergers and Hospital Costs: New Evidence from Hospital Input Markets</a>,” NBER Working Paper 24926, August 2018. Ungated version available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3232902">SSRN</a>. (revised & resubmitted at Rand)
 <br><br>
 <b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “<a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a>," NBER Working Paper 25190, October 2018. (revised & resubmitted at JHE)
 <br><br>
-
-
 
 <H2>Publications</H2>
 Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, and John Van Reenen. “<a href="https://economics.harvard.edu/files/economics/files/ms25288.pdf">The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured</a>,” Quarterly Journal of Economics, February 2019, Vol 134, Issue 1: 51-107.
