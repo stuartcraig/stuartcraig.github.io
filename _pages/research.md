@@ -9,12 +9,11 @@ author_profile: true
 
 
 <H2>Working Papers and Works in Progress</H2>
-<b>Stuart V Craig</b>, Matthew Grennan, and Ashley Swanson. “<a href="http://www.nber.org/papers/w24926">Mergers and Hospital Costs: New Evidence from Hospital Input Markets</a>,” NBER Working Paper 24926, August 2018. Ungated version available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3232902">SSRN</a>. (under review)
+<b>Stuart V Craig</b>, Matthew Grennan, and Ashley Swanson. “<a href="http://www.nber.org/papers/w24926">Mergers and Hospital Costs: New Evidence from Hospital Input Markets</a>,” NBER Working Paper 24926, August 2018. Ungated version available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3232902">SSRN</a>. (revised & resubmitted at Rand)
 <br><br>
-<b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “<a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a>," NBER Working Paper 25190, October 2018. (under review)
+<b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “<a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a>," NBER Working Paper 25190, October 2018. (revised & resubmitted at JHE)
 <br><br>
-Trenton Smith, Steven Stillman, and <b>Stuart Craig</b>. “<a href="http://ftp.iza.org/dp10954.pdf">'Rational Overeating' in a Feast-or-Famine World: Economic Insecurity and the Obesity Epidemic</a>," IZA Discussion Paper 10954: August 2017.
-<br><br>
+
 
 
 <H2>Publications</H2>
