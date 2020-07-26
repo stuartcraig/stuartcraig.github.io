@@ -9,12 +9,12 @@ author_profile: true
 
 
 <H2>Working Papers</H2>
-<b>Stuart V Craig</b>, Matthew Grennan, and Ashley Swanson. “<a href="http://www.nber.org/papers/w24926">Mergers and Hospital Costs: New Evidence from Hospital Input Markets</a>,” NBER Working Paper 24926, August 2018. Ungated version available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3232902">SSRN</a>. (revised & resubmitted at Rand)
-<br><br>
 <b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “<a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a>," NBER Working Paper 25190, October 2018. (revised & resubmitted at JHE)
 <br><br>
 
 <H2>Publications</H2>
+<b>Stuart V Craig</b>, Matthew Grennan, and Ashley Swanson. “<a href="http://www.nber.org/papers/w24926">Mergers and Hospital Costs: New Evidence from Hospital Input Markets</a>,” NBER Working Paper 24926, August 2018. Ungated version available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3232902">SSRN</a>. (Accepted at Rand Journal of Economics)
+<br><br>
 Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, and John Van Reenen. “<a href="https://economics.harvard.edu/files/economics/files/ms25288.pdf">The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured</a>,” Quarterly Journal of Economics, February 2019, Vol 134, Issue 1: 51-107.
 <br><br>
 Zack Cooper, <b>Stuart V Craig</b>, Charles Gray, Martin Gaynor, and John Van Reenen. “<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05245">Variation In Health Spending For the Privately Insured From 2007 to 2014,</a>" Health Affairs, February 2019, 38(2): 230-236. 
