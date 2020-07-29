@@ -33,7 +33,8 @@ Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, Nir J. Harish, Harlan M. Krum
   <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending">Modern Healthcare</a><br>
   
 Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, Robert G. Valletta and <b>Stuart Craig</b>. “<a href="http://onlinelibrary.wiley.com/doi/10.1111/roiw.12053/full">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, July 2014, Vol 60, Issue S1: S5-S32.
-<br><a href="http://economicsecurityindex.org/?p=press">Press</a>  
+<br><b>Press:</b>
+  <a href="http://economicsecurityindex.org/?p=press">Lots of links here</a>  
 <br><br>
 
 <H2>Working Papers</H2>
