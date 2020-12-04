@@ -40,14 +40,12 @@ Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinge
   <a href="http://economicsecurityindex.org/?p=press">Lots of links here</a>  
 <br><br>
 
-<H2>Working Papers</H2>
-<b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “<a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a>," NBER Working Paper 25190, October 2018. (revised & resubmitted at JHE)
-<br><br>
+<H2>Working Papers and Works in Progress</H2>
+<b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “<a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a>," NBER Working Paper 25190, October 2018. (revised & resubmitted at JHE)<br>
 
-<H2>Works in Progress</H2>
 "Vertical Integration and Control: Evidence from Medical Technology," with Matt Grennan, Joseph Martinez, and Ashley Swanson <br>
 
-"Hospital Mergers and Employee Wages," with Zarek Brot-Goldberg and Zack Cooper
+"Who Pays for Rent-Seeking in Health Care? The Effect of Hospital Mergers on Local Labor Markets," with Zarek Brot-Goldberg and Zack Cooper
 <br><br>
 
 
