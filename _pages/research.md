@@ -18,7 +18,8 @@ author_profile: true
 
 <H2>Published and Accepted</H2>
 
-**Mergers and Marginal Costs: New Evidence from Hospital Input Markets (accepted at Rand Journal of Economics)**<br>
+**Mergers and Marginal Costs: New Evidence from Hospital Input Markets**<br>
+**Accepted at Rand Journal of Economics**<br>
 _with Matthew Grennan and Ashley Swanson_
 <details>
   <summary>Press</summary>
@@ -28,8 +29,8 @@ _with Matthew Grennan and Ashley Swanson_
   * <a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html">Axios</a>
 </details>
 
-**The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured**
-**Quarterly Journal of Economics, 2019**
+**The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured**<br>
+**Quarterly Journal of Economics, 2019**<br>
 _with Zack Cooper, Martin Gaynor, and John Van Reenen_
 <details>
 <summary>
