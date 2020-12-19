@@ -45,8 +45,12 @@ Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinge
 <br><br>
 
 <H2>Working Papers and Works in Progress</H2>
-<b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “<a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a>," NBER Working Paper 25190, October 2018. (revised & resubmitted at JHE)<br>
-
+**How Important Is Price variation Between Health Insurers?**
+_with Keith Ericson, and Amanda Starc (Revised and Resubmitted at JHE)_
+<details>
+  <summary>Draft</summary>
+  <a href="https://stuartcraig.github.io/files/w25190.pdf">NBER Working Paper 25190</a>, October 2018
+</details>
 
 **Vertical Integration and Control: Evidence from Medical Technology**<br>
 _with Matt Grennan, Joseph Martinez, and Ashley Swanson_
