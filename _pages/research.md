@@ -16,10 +16,18 @@ author_profile: true
 </details>
 <br><br>
 
-<H2>Publications</H2>
-<b>Stuart V Craig</b>, Matthew Grennan, and Ashley Swanson. “<a href="http://www.nber.org/papers/w24926">Mergers and Marginal Costs: New Evidence from Hospital Input Markets</a>,” Accepted at Rand Journal of Economics.
-<br><b>Press:</b> <a href="https://www.nber.org/digest/oct18/w24926.shtml">NBER Digest</a>, <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers">Modern Healthcare, <a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html">Axios</a><br>
-  
+<H2>Published and Acceptec</H2>
+**Mergers and Marginal Costs: New Evidence from Hospital Input Markets (accepted at Rand Journal of Economics)**
+_with Matthew Grennan and Ashley Swanson_)
+<details>
+<summary>
+Press
+</summary>
+* <a href="https://www.nber.org/digest/oct18/w24926.shtml">NBER Digest</a>
+* <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers">Modern Healthcare</a>
+* <a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html">Axios</a>
+</details>
+
 Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, and John Van Reenen. “<a href="https://economics.harvard.edu/files/economics/files/ms25288.pdf">The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured</a>,” Quarterly Journal of Economics, February 2019, Vol 134, Issue 1: 51-107.
 <br><b>Honors:</b>
   <a href="https://www.nihcm.org/categories/announcing-the-winners-of-the-25th-annual-research-award">NIHCM Foundation Research Award </a>
