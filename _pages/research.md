@@ -67,12 +67,28 @@ Zack Cooper, <b>Stuart V Craig</b>, Charles Gray, Martin Gaynor, and John Van Re
 
 * <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending">Modern Healthcare</a><br>
 </details>
+<br>
+
+**Hospital Prices Grew Substantiall Faster Than Physician Prices For Hospital-Based Care In 2007-2014**
+**Health Affairs, 2019**
+_with Zack Cooper, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen_
+<details>
+  <summary>Full Citation</summary>
 
 Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen. "<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05424">Hospital Prices Grew Substantiall Faster Than Physician Prices For Hospital-Based Care In 2007-2014</a>," Health Affairs, February 2019, 38(2): 184-189.
-<br><b>Press:</b>
-  <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending">Modern Healthcare</a><br>
-  
-Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, Robert G. Valletta and <b>Stuart Craig</b>. “<a href="http://onlinelibrary.wiley.com/doi/10.1111/roiw.12053/full">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, July 2014, Vol 60, Issue S1: S5-S32.
+</details>
+<details>
+<summary>Press</summary>
+
+* <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending">Modern Healthcare</a><br>
+</details>
+<br>
+
+**The Economic Security Index: A New Measure for Research and Policy Analysis**
+**The Review of Income and Wealth, 2014**
+_with Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, and Robert G. Valletta_
+
+%“<a href="http://onlinelibrary.wiley.com/doi/10.1111/roiw.12053/full">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, July 2014, Vol 60, Issue S1: S5-S32.
 <br><b>Press:</b>
   <a href="http://economicsecurityindex.org/?p=press">Lots of links here</a>  
 <br><br>
