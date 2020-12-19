@@ -17,6 +17,7 @@ author_profile: true
 <br><br>
 
 <H2>Published and Acceptec</H2>
+
 **Mergers and Marginal Costs: New Evidence from Hospital Input Markets (accepted at Rand Journal of Economics)**<br>
 _with Matthew Grennan and Ashley Swanson_
 <details>
