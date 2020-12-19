@@ -21,13 +21,14 @@ author_profile: true
 **Mergers and Marginal Costs: New Evidence from Hospital Input Markets**<br>
 **Accepted at Rand Journal of Economics**<br>
 _with Matthew Grennan and Ashley Swanson_
-&ensp;<details>
+<details>
   <summary>Press</summary>
   
   * <a href="https://www.nber.org/digest/oct18/w24926.shtml">NBER Digest</a>
   * <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers">Modern Healthcare</a>
   * <a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html">Axios</a>
 </details>
+<br>
 
 **The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured**<br>
 **Quarterly Journal of Economics, 2019**<br>
@@ -46,7 +47,7 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
 * <a href="https://www.marketplace.org/2015/12/14/health-care/unprecedented-look-medical-costs-nationwide/">NPR Marketplace</a>,
 * <a href="https://www.vox.com/policy-and-politics/2018/5/9/17337134/health-care-costs-hospital-rates-insurance">Vox</a><br>
 </details>
-
+<br>
 
 **Variation In Health Spending For the Privately Insured From 2007 to 2014**
 **Health Affairs, 2019**
