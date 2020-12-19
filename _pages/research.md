@@ -106,7 +106,8 @@ Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinge
 <H1>Working Papers and Works in Progress</H1>
 
 **How Important Is Price variation Between Health Insurers?**<br>
-_with Keith Ericson, and Amanda Starc (Revised and Resubmitted at JHE)_
+**Revised and Resubmitted at Journal of Health Economics**<br>
+_with Keith Ericson, and Amanda Starc_
 <details>
   <summary>Draft</summary>  <a href="https://stuartcraig.github.io/files/w25190.pdf">NBER Working Paper 25190</a>, October 2018
 </details>
