@@ -49,8 +49,8 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
 </details>
 <br>
 
-**Variation In Health Spending For the Privately Insured From 2007 to 2014**
-**Health Affairs, 2019**
+**Variation In Health Spending For the Privately Insured From 2007 to 2014**<br>
+**Health Affairs, 2019**<br>
 _with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen_
 <details>
   <summary>Full Citation</summary>
@@ -69,8 +69,8 @@ Zack Cooper, <b>Stuart V Craig</b>, Charles Gray, Martin Gaynor, and John Van Re
 </details>
 <br>
 
-**Hospital Prices Grew Substantiall Faster Than Physician Prices For Hospital-Based Care In 2007-2014**
-**Health Affairs, 2019**
+**Hospital Prices Grew Substantiall Faster Than Physician Prices For Hospital-Based Care In 2007-2014**<br>
+**Health Affairs, 2019**<br>
 _with Zack Cooper, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen_
 <details>
   <summary>Full Citation</summary>
@@ -84,14 +84,20 @@ Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, Nir J. Harish, Harlan M. Krum
 </details>
 <br>
 
-**The Economic Security Index: A New Measure for Research and Policy Analysis**
-**The Review of Income and Wealth, 2014**
+**The Economic Security Index: A New Measure for Research and Policy Analysis**<br>
+**The Review of Income and Wealth, 2014**<br>
 _with Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, and Robert G. Valletta_
-
-%“<a href="http://onlinelibrary.wiley.com/doi/10.1111/roiw.12053/full">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, July 2014, Vol 60, Issue S1: S5-S32.
-<br><b>Press:</b>
-  <a href="http://economicsecurityindex.org/?p=press">Lots of links here</a>  
-<br><br>
+<details>
+  <summary>Full Citation</summary>
+  
+Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, Robert G. Valletta, and Stuart Craig. “<a href="http://onlinelibrary.wiley.com/doi/10.1111/roiw.12053/full">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, July 2014, Vol 60, Issue S1: S5-S32.
+</details>
+<details>
+  <summary>Press</summary>
+  
+  * <a href="http://economicsecurityindex.org/?p=press">Lots of links here</a>  
+</details>
+<br>
 
 <H2>Working Papers and Works in Progress</H2>
 
