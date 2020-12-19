@@ -6,6 +6,7 @@ author_profile: true
 
 {% include base_path %}
 {% seo %}
+
 **Job Market Paper: Competition in Employer Sponsored Health Insurance: Implications for a Public Option**
 <details>
 <summary>
