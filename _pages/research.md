@@ -3,6 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 layout: single
+type: pages
 ---
 
 {% include base_path %}
