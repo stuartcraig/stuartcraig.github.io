@@ -5,6 +5,7 @@
 .container div {
     width:100%;
     top:0;
+    padding:0px;
 }
 .container .header {
     background-color:#d3d3d3;
