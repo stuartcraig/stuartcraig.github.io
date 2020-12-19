@@ -48,7 +48,8 @@ Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinge
 <b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “<a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a>," NBER Working Paper 25190, October 2018. (revised & resubmitted at JHE)<br>
 
 
-"Vertical Integration and Control: Evidence from Medical Technology," with Matt Grennan, Joseph Martinez, and Ashley Swanson
+**Vertical Integration and Control: Evidence from Medical Technology**<br>
+_with Matt Grennan, Joseph Martinez, and Ashley Swanson_
 <details>
   <summary>
     Abstract
@@ -83,8 +84,6 @@ surgeons who implant those devices. We then explore the extent to which savings 
 renegotiation of procurement contracts, holding utilization fixed, vs. utilization changes in the form of
 standardization, brand switching, and expansion in procedure volume due to greater steering.
 </details>
-
-<br>
 
 "Who Pays for Rent-Seeking in Health Care? The Effect of Hospital Mergers on Local Labor Markets," with Zarek Brot-Goldberg and Zack Cooper
 <br><br>
