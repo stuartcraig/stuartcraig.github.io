@@ -20,9 +20,9 @@ author_profile: true
 
 **Mergers and Marginal Costs: New Evidence from Hospital Input Markets**<br>
 **Accepted at Rand Journal of Economics**<br>
-_with Matthew Grennan and Ashley Swanson_
-<details>
-  <summary>&ensp;Press</summary>
+_with Matthew Grennan and Ashley Swanson_<br>
+&ensp;<details>
+  <summary>Press</summary>
   
   * <a href="https://www.nber.org/digest/oct18/w24926.shtml">NBER Digest</a>
   * <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers">Modern Healthcare</a>
