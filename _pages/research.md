@@ -33,15 +33,13 @@ _with Matthew Grennan and Ashley Swanson_
 **Quarterly Journal of Economics, 2019**<br>
 _with Zack Cooper, Martin Gaynor, and John Van Reenen_
 <details>
-<summary>
-Honors
-</summary>
+<summary>Honors</summary>
+  
 * <a href="https://www.nihcm.org/categories/announcing-the-winners-of-the-25th-annual-research-award">NIHCM Foundation Research Award </a>
 </details>
 <details>
-<summary>
-Press
-</summary>
+<summary>Press</summary>
+  
 * <a href="https://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html">NYT</a>, 
 * <a href="https://www.wsj.com/articles/what-does-knee-surgery-cost-few-know-and-thats-a-problem-1534865358">WSJ</a>, 
 * <a href="https://www.newyorker.com/news/news-desk/health-cares-cost-conundrum-squared">New Yorker</a>,
@@ -54,21 +52,18 @@ Press
 **Health Affairs, 2019**
 _with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen_
 <details>
-  <summary>
-    Full Citation
-  </summary>
+  <summary>Full Citation</summary>
+
 Zack Cooper, <b>Stuart V Craig</b>, Charles Gray, Martin Gaynor, and John Van Reenen. “<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05245">Variation In Health Spending For the Privately Insured From 2007 to 2014,</a>" Health Affairs, February 2019, 38(2): 230-236. 
 </details>
 <details>
-<summary>
-Honors
-</summary>
+<summary>Honors</summary>
+
 * <a href="https://www.healthaffairs.org/do/10.1377/hblog20191227.167140/full/">Health Affairs' Top 10 Most-Read Articles of 2019</a>
 </details>
 <details>
-<summary>
-Press
-</summary>
+<summary>Press</summary>
+
 * <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending">Modern Healthcare</a><br>
 </details>
 
