@@ -16,7 +16,9 @@ author_profile: true
 </details>
 <br><br>
 
-<H2>Published and Accepted</H2>
+<H1>Published and Accepted</H1>
+
+<H2>Economics</H2>
 
 **Mergers and Marginal Costs: New Evidence from Hospital Input Markets**<br>
 **Accepted at Rand Journal of Economics**<br>
@@ -48,6 +50,8 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
 * <a href="https://www.vox.com/policy-and-politics/2018/5/9/17337134/health-care-costs-hospital-rates-insurance">Vox</a><br>
 </details>
 <br>
+
+<H2>Health, Policy, Measurement</H2>
 
 **Variation In Health Spending For the Privately Insured From 2007 to 2014**<br>
 **Health Affairs, 2019**<br>
