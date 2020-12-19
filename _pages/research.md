@@ -47,7 +47,42 @@ Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinge
 <H2>Working Papers and Works in Progress</H2>
 <b>Stuart V Craig</b>, Keith Ericson, and Amanda Starc. “<a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a>," NBER Working Paper 25190, October 2018. (revised & resubmitted at JHE)<br>
 
-"Vertical Integration and Control: Evidence from Medical Technology," with Matt Grennan, Joseph Martinez, and Ashley Swanson <br>
+"Vertical Integration and Control: Evidence from Medical Technology," with Matt Grennan, Joseph Martinez, and Ashley Swanson
+<details>
+  <summary>
+    Abstract
+  </summary>
+Hospitals and physicians – which have historically acted as organizationally and financially distinct co-
+producers of care – have become increasingly integrated in recent years. Firms’ stated objectives for
+physician practice ownership have focused on sharing back-office functions, improving information flow,
+and facilitating care coordination. However, recent evidence on physician-hospital integration suggests
+that it primarily leads to higher prices and greater steering of patients to owning facilities, without
+concomitant improvements in patient outcomes.
+  
+In this paper, we ask whether physician-hospital integration enables hospitals to resolve agency
+problems between administrators and physicians, focusing on hospital purchasing of medical devices.
+While hospitals negotiate prices for – and bear the cost of – implantable medical devices, at point of use
+these products are selected by physicians whose choices may be price-insensitive due to brand loyalty
+or inattention. These implantable medical devices account for 23 percent of hospital operating costs,
+and prices vary widely across hospitals, suggesting large potential savings in the cost of health care
+delivery. Hospitals’ seeking to negotiate lower prices through bargaining must be able to credibly
+remove the supplier from its choice set, and hospitals and physicians often disagree about tradeoffs
+regarding price and perceived quality across competing brands. Hospitals would prefer to procure those
+brands that are cheapest, subject to meeting a basic quality standard. However, they must also cater to
+the preferences of surgeons who may take their profitable procedures elsewhere.
+
+This paper examines the possibility that hospital employment of physicians changes this paradigm. Using
+machine learning algorithms, physician practice tax identifiers, survey data on hospital integration, and a
+large sample of practices with validated integration, we find that physician integration in the U.S.
+increased from 27% of physicians in 2008 to 45% in 2016, with significant variation across geographies
+and specialties. We combine these physician integration data with unique hospital-level data on pricing
+and utilization of medical devices, as well as data on procedural volumes. We ask whether hospitals and
+health systems achieve lower costs in purchasing of medical devices after acquiring the practices of
+surgeons who implant those devices. We then explore the extent to which savings are explained by
+renegotiation of procurement contracts, holding utilization fixed, vs. utilization changes in the form of
+standardization, brand switching, and expansion in procedure volume due to greater steering.
+</details>
+<br>
 
 "Who Pays for Rent-Seeking in Health Care? The Effect of Hospital Mergers on Local Labor Markets," with Zarek Brot-Goldberg and Zack Cooper
 <br><br>
