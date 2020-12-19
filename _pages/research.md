@@ -53,6 +53,11 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
 
 <H2>Health, Policy, Measurement</H2>
 
+**Impact of Medicaid Expansion on Women with Gynecologic Cancer: a Difference-in-Difference Analysis**<br>
+**American Journal of Obstetrics and Gynecology**<br>
+_with Benjamin B. Albright, Dimitrios Nasioudis, Haley A. Moss, Nawar A. Latif, Emily M. Ko, and Ashley F. Haggerty_
+<br>
+
 **Variation In Health Spending For the Privately Insured From 2007 to 2014**<br>
 **Health Affairs, 2019**<br>
 _with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen_
