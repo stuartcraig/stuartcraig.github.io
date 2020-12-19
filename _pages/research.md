@@ -22,6 +22,7 @@ author_profile: true
 _with Matthew Grennan and Ashley Swanson_
 <details>
   <summary>Press</summary>
+  
   * <a href="https://www.nber.org/digest/oct18/w24926.shtml">NBER Digest</a>
   * <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers">Modern Healthcare</a>
   * <a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html">Axios</a>
