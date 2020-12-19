@@ -89,8 +89,8 @@ renegotiation of procurement contracts, holding utilization fixed, vs. utilizati
 standardization, brand switching, and expansion in procedure volume due to greater steering.
 </details>
 
-"Who Pays for Rent-Seeking in Health Care? The Effect of Hospital Mergers on Local Labor Markets," with Zarek Brot-Goldberg and Zack Cooper
-<br><br>
+**Who Pays for Rent-Seeking in Health Care? The Effect of Hospital Mergers on Local Labor Markets**<br>
+_with Zarek Brot-Goldberg and Zack Cooper_
 
 
 
