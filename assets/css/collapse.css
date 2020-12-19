@@ -1,6 +1,8 @@
 .container {
     width:100%;
     border:0px solid #d3d3d3;
+    padding:0px;
+    top:0;
 }
 .container div {
     width:100%;
@@ -12,6 +14,7 @@
     padding: 0px;
     cursor: pointer;
     font-weight: bold;
+    top:0;
 }
 .container .content {
     display: none;
