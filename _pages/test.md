@@ -40,7 +40,7 @@ _with Matthew Grennan and Ashley Swanson_
 _with Zack Cooper, Martin Gaynor, and John Van Reenen_
 <div class="container-fluid">
   <div class="row">
-  <div class="btn-group btn-group-sm">
+  <div class="btn-group btn-group-justified">
     <div class="btn-group">
       <button type="button" class="btn btn-primary">Full Citation</button>
     </div>
