@@ -4,7 +4,6 @@ permalink: /test/
 author_profile: true
 layout: single
 redirect_from: 
-  - "/test/"
   - "/test.html"
 ---
 {% include base_path %}
