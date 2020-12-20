@@ -42,25 +42,25 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
   <div class="row">
   <div class="btn-group btn-group-justified">
     <div class="btn-group">
-      <button type="button" class="btn btn-primary">Full Citation</button>
+      <button class="btn btn-primary">Full Citation</button>
     </div>
     <div class="btn-group">
-      <button type="button" class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEabstract" aria-expanded="false" aria-controls="QJEabstract">Abstract</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEabstract" aria-expanded="false" aria-controls="QJEabstract">Abstract</button>
     </div>
     <div class="btn-group">
-      <button type="button" class="btn btn-primary">Paper</button>
+      <button class="btn btn-primary">Paper</button>
     </div>
     <div class="btn-group">
-      <button type="button" class="btn btn-primary">Appendix</button>
+      <button class="btn btn-primary">Appendix</button>
     </div>
     <div class="btn-group">
-      <button type="button" class="btn btn-primary">Data</button>
+      <button class="btn btn-primary">Data</button>
     </div>
     <div class="btn-group">
-      <button type="button" class="btn btn-primary">Press</button>
+      <button class="btn btn-primary">Press</button>
     </div>
     <div class="btn-group">
-      <button type="button" class="btn btn-primary">Awards</button>
+      <button class="btn btn-primary">Awards</button>
     </div>
   </div>
   </div>
