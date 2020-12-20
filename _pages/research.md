@@ -2,7 +2,7 @@
 title: "Research"
 permalink: /research/
 author_profile: true
-layout: single
+layout: default
 ---
 
 {% include base_path %}
