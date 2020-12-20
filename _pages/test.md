@@ -61,7 +61,7 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
     </div>
     <div class="btn-group">
       <button type="button" class="btn btn-primary">Awards</button>
-    </div
+    </div>
   </div>
   </div>
     
