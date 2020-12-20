@@ -39,13 +39,6 @@ _with Matthew Grennan and Ashley Swanson_
 **The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured**<br>
 **Quarterly Journal of Economics, 2019**<br>
 _with Zack Cooper, Martin Gaynor, and John Van Reenen_
-  <div class="container">
-   <div class="btn-group btn-group-sm">
-     <button type="button" class="btn btn-primary">Honors</button>
-     <button type="button" class="btn btn-primary">Press</button>
-   </div>
-  </div>
-  
 <details>
 <summary>Honors</summary>
   
