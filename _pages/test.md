@@ -40,37 +40,24 @@ _with Matthew Grennan and Ashley Swanson_
 _with Zack Cooper, Martin Gaynor, and John Van Reenen_
 <div class="container-fluid">
   <div class="row">
-  <div class="btn-group btn-group-justified">
-    <div class="btn-group">
+    <div class="btn-group btn-group-justified">
       <button class="btn btn-primary">Full Citation</button>
-    </div>
-    <div class="btn-group">
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEabstract" aria-expanded="false" aria-controls="QJEabstract">Abstract</button>
-    </div>
-    <div class="btn-group">
       <button class="btn btn-primary">Paper</button>
-    </div>
-    <div class="btn-group">
       <button class="btn btn-primary">Appendix</button>
-    </div>
-    <div class="btn-group">
       <button class="btn btn-primary">Data</button>
-    </div>
-    <div class="btn-group">
       <button class="btn btn-primary">Press</button>
-    </div>
-    <div class="btn-group">
       <button class="btn btn-primary">Awards</button>
-    </div>
-  </div>
+      </div>
   </div>
     
   <div class="row" id="sub">
-  <div id="QJEabstract" class="collapse">
-<p>We use insurance claims data for 27.6 percent of individuals with private employer-sponsored insurance in the US between 2007 and 2011 to examine the variation in health spending and in hospitals’ transaction prices. We document the variation in hospital prices within and across geographic areas, examine how hospital prices influence the variation in health spending on the privately insured, and analyze the factors associated with hospital price variation. Four key findings emerge. First, health care spending per privately insured beneficiary varies by a factor of three across the 306 Hospital Referral Regions (HRRs) in the US. Moreover, the correlation between total spending per privately insured beneficiary and total spending per Medicare beneficiary across HRRs is only 0.14. Second, variation in providers’ transaction prices across HRRs is the primary driver of spending variation for the privately insured, whereas variation in the quantity of care provided across HRRs is the primary driver of Medicare spending variation. Consequently, extrapolating lessons on health spending from Medicare to the privately insured must be done with caution. Third, we document large dispersion in overall inpatient hospital prices and in prices for seven relatively homogenous procedures. For example, hospital prices for lower-limb MRIs vary by a factor of twelve across the nation and, on average, two-fold within HRRs. Finally, hospital prices are positively associated with indicators of hospital market power. Even after conditioning on many demand and cost factors, hospital prices in monopoly markets are 15.3 percent higher than those in markets with four or more hospitals.</p>
+    <div id="QJEabstract" class="collapse">
+      <p>We use insurance claims data for 27.6 percent of individuals with private employer-sponsored insurance in the US between 2007 and 2011 to examine the variation in health spending and in hospitals’ transaction prices. We document the variation in hospital prices within and across geographic areas, examine how hospital prices influence the variation in health spending on the privately insured, and analyze the factors associated with hospital price variation. Four key findings emerge. First, health care spending per privately insured beneficiary varies by a factor of three across the 306 Hospital Referral Regions (HRRs) in the US. Moreover, the correlation between total spending per privately insured beneficiary and total spending per Medicare beneficiary across HRRs is only 0.14. Second, variation in providers’ transaction prices across HRRs is the primary driver of spending variation for the privately insured, whereas variation in the quantity of care provided across HRRs is the primary driver of Medicare spending variation. Consequently, extrapolating lessons on health spending from Medicare to the privately insured must be done with caution. Third, we document large dispersion in overall inpatient hospital prices and in prices for seven relatively homogenous procedures. For example, hospital prices for lower-limb MRIs vary by a factor of twelve across the nation and, on average, two-fold within HRRs. Finally, hospital prices are positively associated with indicators of hospital market power. Even after conditioning on many demand and cost factors, hospital prices in monopoly markets are 15.3 percent higher than those in markets with four or more hospitals.</p>
    </div>
+  </div>
 </div>
-</div>
+
 <details>
 <summary>Honors</summary>
   
