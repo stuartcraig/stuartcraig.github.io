@@ -4,6 +4,7 @@ permalink: /research/
 author_profile: true
 layout: default
 ---
+
 {% include base_path %}
 {% seo %}
 
