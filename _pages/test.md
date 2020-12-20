@@ -41,13 +41,27 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
 <div class="container-fluid">
   <div class="row">
   <div class="btn-group btn-group-sm">
-    <button class="btn btn-primary">Full Citation</button>
-    <button type="button" class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEabstract" aria-expanded="false" aria-controls="QJEabstract">Abstract</button>
-    <button type="button" class="btn btn-primary">Paper</button>
-    <button type="button" class="btn btn-primary">Appendix</button>
-    <button type="button" class="btn btn-primary">Data</button>
-    <button type="button" class="btn btn-primary">Press</button>
-    <button type="button" class="btn btn-primary">Awards</button>
+    <div class="btn-group">
+      <button type="button" class="btn btn-primary">Full Citation</button>
+    </div>
+    <div class="btn-group">
+      <button type="button" class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEabstract" aria-expanded="false" aria-controls="QJEabstract">Abstract</button>
+    </div>
+    <div class="btn-group">
+      <button type="button" class="btn btn-primary">Paper</button>
+    </div>
+    <div class="btn-group">
+      <button type="button" class="btn btn-primary">Appendix</button>
+    </div>
+    <div class="btn-group">
+      <button type="button" class="btn btn-primary">Data</button>
+    </div>
+    <div class="btn-group">
+      <button type="button" class="btn btn-primary">Press</button>
+    </div>
+    <div class="btn-group">
+      <button type="button" class="btn btn-primary">Awards</button>
+    </div
   </div>
   </div>
   <div class="row" id="sub">
