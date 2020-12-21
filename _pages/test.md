@@ -63,12 +63,13 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
 * <a href="https://www.nihcm.org/categories/announcing-the-winners-of-the-25th-annual-research-award">NIHCM Foundation Research Award</a>
   </div>
   <div id="QJEpress" class="collapse">
-
-* <a href="https://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html">NYT</a> 
-* <a href="https://www.wsj.com/articles/what-does-knee-surgery-cost-few-know-and-thats-a-problem-1534865358">WSJ</a>
-* <a href="https://www.newyorker.com/news/news-desk/health-cares-cost-conundrum-squared">New Yorker</a>
-* <a href="https://www.marketplace.org/2015/12/14/health-care/unprecedented-look-medical-costs-nationwide/">NPR Marketplace</a>
-* <a href="https://www.vox.com/policy-and-politics/2018/5/9/17337134/health-care-costs-hospital-rates-insurance">Vox</a>
+    <ul>
+      <li> <a href="https://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html">NYT</a></li>
+      <li> <a href="https://www.wsj.com/articles/what-does-knee-surgery-cost-few-know-and-thats-a-problem-1534865358">WSJ</a></li>
+      <li> <a href="https://www.newyorker.com/news/news-desk/health-cares-cost-conundrum-squared">New Yorker</a></li>
+      <li> <a href="https://www.marketplace.org/2015/12/14/health-care/unprecedented-look-medical-costs-nationwide/">NPR Marketplace</a></li>
+      <li> <a href="https://www.vox.com/policy-and-politics/2018/5/9/17337134/health-care-costs-hospital-rates-insurance">Vox</a></li>
+    </ul>
   </div>
   </div>
 </div>
