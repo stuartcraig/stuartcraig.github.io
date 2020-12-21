@@ -101,6 +101,13 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
   </div>
   </div>
 </div>
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('#priceaintright_sub').on('show.bs.collapse', function() {
+      $('#priceaintright_sub .collapse').collapse('hide')
+    })
+  });
+</script>
 <br>
 
 <H2>Health, Policy, Measurement</H2>
