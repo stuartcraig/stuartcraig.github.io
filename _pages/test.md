@@ -44,7 +44,7 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEcitation" aria-expanded="false" aria-controls="QJEcitation">Full Citation</button>
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEabstract" aria-expanded="false" aria-controls="QJEabstract">Abstract</button>
       <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/qjy020.pdf');">Paper</button>
-      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/20180507_variation_appendix_0.pdf';")>Appendix</button>
+      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/20180507_variation_appendix_0.pdf';)">Appendix</button>
       <button class="btn btn-primary">Data</button>
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEpress" aria-expanded="false" aria-controls="QJEpress">Press</button>
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEawards" aria-expanded="false" aria-controls="QJEawards">Awards</button>
