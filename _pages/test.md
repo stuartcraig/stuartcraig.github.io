@@ -9,32 +9,59 @@ layout: single
 
 
   
-
+<!--- Job Market Paper --->
 **Job Market Paper: Competition in Employer Sponsored Health Insurance: Implications for a Public Option**
-<details>
-<summary>
-Abstract
-</summary>
-156 million Americans obtain health insurance through an employer. High premiums and concerns about access have led to proposals to introduce a "public option," where the government would provide a public insurance plan to compete with private insurers. In the absence of an existing public option to study, I combine data on employer-insurer contracting and a structural model of supply and demand to predict market outcomes under various assumptions about the design such a policy. The model incorporates variation in employers' demand for health care, preferences over insurers, and the degree to which employers find it costly to switch between insurers. Insurers set employer-specific premiums allowing them to price discriminate. I find that insurers' ability to price discriminate substantially limits demand for the public option that cannot. More employers abandon the private market when the public option successfully replicates the quality of existing insurers and more aggressively regulates payments to health care providers. However, even a public option that obtains substantial market share does little to lower markups because employers who remain privately insured strongly prefer their private insurer, have large switching costs, and receive risk-rated premium offers that dominate the premiums of the public option.
-</details>
-<br><br>
+<div class="container-fluid">
+  <div class="row">
+   <div style="text-indent: 1em;">
+    <div class="btn-group btn-group-justified">
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#JMP_sub" data-target="#JMP_abstract" aria-expanded="false" aria-controls="JMP_abstract">Abstract</button>
+      </div>
+    </div>
+  </div>
+  <div class="row" id="JMP_sub">
+    <div id="JMP_abstract" class="collapse">
+      <p>156 million Americans obtain health insurance through an employer. High premiums and concerns about access have led to proposals to introduce a "public option," where the government would provide a public insurance plan to compete with private insurers. In the absence of an existing public option to study, I combine data on employer-insurer contracting and a structural model of supply and demand to predict market outcomes under various assumptions about the design such a policy. The model incorporates variation in employers' demand for health care, preferences over insurers, and the degree to which employers find it costly to switch between insurers. Insurers set employer-specific premiums allowing them to price discriminate. I find that insurers' ability to price discriminate substantially limits demand for the public option that cannot. More employers abandon the private market when the public option successfully replicates the quality of existing insurers and more aggressively regulates payments to health care providers. However, even a public option that obtains substantial market share does little to lower markups because employers who remain privately insured strongly prefer their private insurer, have large switching costs, and receive risk-rated premium offers that dominate the premiums of the public option.</p>
+   </div>
+  </div>
+</div>
+<br>
 
 <H1>Published and Accepted</H1>
 
 <H2>Economics</H2>
 
+<!--- Mergers and marginal costs --->
 **Mergers and Marginal Costs: New Evidence from Hospital Input Markets**<br>
 **Accepted at Rand Journal of Economics**<br>
 _with Matthew Grennan and Ashley Swanson_
-<details>
-  <summary>Press</summary>
-  
-  * <a href="https://www.nber.org/digest/oct18/w24926.shtml">NBER Digest</a>
-  * <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers">Modern Healthcare</a>
-  * <a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html">Axios</a>
-</details>
+<div class="container-fluid">
+  <div class="row">
+   <div style="text-indent: 1em;">
+    <div class="btn-group btn-group-justified">
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#mergmargcost_sub" data-target="#mergmargcost_abstract" aria-expanded="false" aria-controls="mergmargcost_abstract">Abstract</button>
+      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/mergersmargcosts_20200515.pdf');">Paper</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#mergmargcost_sub" data-target="#mergmargcost_press" aria-expanded="false" aria-controls="mergmargcost_press">Press</button>
+      </div>
+    </div>
+  </div>
+    
+  <div class="row" id="mergmargcost_sub">
+    <div id="mergmargcost_abstract" class="collapse">
+      <p>We estimate the effects of hospital mergers, using detailed data containing medical supply transactions (representing 23 percent of operating costs) from a sample of US hospitals 2009-2015. Pre-merger price variation across hospitals (Gini coefficient 7 percent) suggests significant opportunities for cost decreases. However, we observe limited evidence of actual savings. In this retrospective sample, targets realized 1.9 percent savings; acquirers realize no significant savings. Examining treatment effect heterogeneity to shed light on theories of "buyer power," we find that savings, when they occur, tend to be local, and potential benefits of savings may be offset by managerial costs of merging.</p>
+   </div>
+  <div id="mergmargcost_press" class="collapse">
+    <ul>
+      <li><a href="https://www.nber.org/digest/oct18/w24926.shtml">NBER Digest</a></li>
+      <li><a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers">Modern Healthcare</a></li>
+      <li><a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html">Axios</a></li>
+    </ul>
+  </div>
+  </div>
+</div>
 <br>
 
+<!--- The Price Ain't Right --->
 **The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured**<br>
 **Quarterly Journal of Economics, 2019**<br>
 _with Zack Cooper, Martin Gaynor, and John Van Reenen_
@@ -42,25 +69,25 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
   <div class="row">
    <div style="text-indent: 1em;">
     <div class="btn-group btn-group-justified">
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEcitation" aria-expanded="false" aria-controls="QJEcitation">Full Citation</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEabstract" aria-expanded="false" aria-controls="QJEabstract">Abstract</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#priceaintright_sub" data-target="#priceaintright_citation" aria-expanded="false" aria-controls="priceaintright_citation">Full Citation</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#priceaintright_sub" data-target="#priceaintright_abstract" aria-expanded="false" aria-controls="priceaintright_abstract">Abstract</button>
       <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/qjy020.pdf');">Paper</button>
       <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/20180507_variation_appendix_0.pdf');">Appendix</button>
       <button class="btn btn-primary">Data</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEpress" aria-expanded="false" aria-controls="QJEpress">Press</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEawards" aria-expanded="false" aria-controls="QJEawards">Awards</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#priceaintright_sub" data-target="#priceaintright_press" aria-expanded="false" aria-controls="priceaintright_press">Press</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#priceaintright_sub" data-target="#priceaintright_awards" aria-expanded="false" aria-controls="priceaintright_awards">Awards</button>
       </div>
     </div>
   </div>
     
-  <div class="row" id="sub">
-    <div id="QJEcitation" class="collapse">
+  <div class="row" id="priceaintright_sub">
+    <div id="priceaintright_citation" class="collapse">
       <p>Cooper, Zack, Stuart V. Craig, Martin Gaynor, and John Van Reenen. "The price ain’t right? Hospital prices and health spending on the privately insured." The Quarterly Journal of Economics 134, no. 1 (2019): 51-107.</p>
     </div>
-    <div id="QJEabstract" class="collapse">
+    <div id="priceaintright_abstract" class="collapse">
       <p>We use insurance claims data for 27.6 percent of individuals with private employer-sponsored insurance in the US between 2007 and 2011 to examine the variation in health spending and in hospitals’ transaction prices. We document the variation in hospital prices within and across geographic areas, examine how hospital prices influence the variation in health spending on the privately insured, and analyze the factors associated with hospital price variation. Four key findings emerge. First, health care spending per privately insured beneficiary varies by a factor of three across the 306 Hospital Referral Regions (HRRs) in the US. Moreover, the correlation between total spending per privately insured beneficiary and total spending per Medicare beneficiary across HRRs is only 0.14. Second, variation in providers’ transaction prices across HRRs is the primary driver of spending variation for the privately insured, whereas variation in the quantity of care provided across HRRs is the primary driver of Medicare spending variation. Consequently, extrapolating lessons on health spending from Medicare to the privately insured must be done with caution. Third, we document large dispersion in overall inpatient hospital prices and in prices for seven relatively homogenous procedures. For example, hospital prices for lower-limb MRIs vary by a factor of twelve across the nation and, on average, two-fold within HRRs. Finally, hospital prices are positively associated with indicators of hospital market power. Even after conditioning on many demand and cost factors, hospital prices in monopoly markets are 15.3 percent higher than those in markets with four or more hospitals.</p>
    </div>
-  <div id="QJEpress" class="collapse">
+  <div id="priceaintright_press" class="collapse">
     <ul>
       <li> <a href="https://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html">NYT</a></li>
       <li> <a href="https://www.wsj.com/articles/what-does-knee-surgery-cost-few-know-and-thats-a-problem-1534865358">WSJ</a></li>
@@ -69,23 +96,58 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
       <li> <a href="https://www.vox.com/policy-and-politics/2018/5/9/17337134/health-care-costs-hospital-rates-insurance">Vox</a></li>
     </ul>
   </div>
-  <div id="QJEawards" class="collapse">
+  <div id="priceaintright_awards" class="collapse">
     <ul>
       <li><a href="https://www.nihcm.org/categories/announcing-the-winners-of-the-25th-annual-research-award">NIHCM Foundation Research Award</a></li>
     </ul>
   </div>
   </div>
 </div>
-
+<br>
 
 <H2>Health, Policy, Measurement</H2>
 
+<!--- Medicaid Expansion --->
 **Impact of Medicaid Expansion on Women with Gynecologic Cancer: a Difference-in-Difference Analysis**<br>
 **American Journal of Obstetrics and Gynecology, 2020**<br>
 _with Benjamin B. Albright, Dimitrios Nasioudis, Haley A. Moss, Nawar A. Latif, Emily M. Ko, and Ashley F. Haggerty_
-<br><br>
+<div class="container-fluid">
+  <div class="row">
+   <div style="text-indent: 1em;">
+    <div class="btn-group btn-group-justified">
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#medicaidexp_sub" data-target="#medicaidexp_citation" aria-expanded="false" aria-controls="medicaidexp_citation">Full Citation</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#medicaidexp_sub" data-target="#medicaidexp_abstract" aria-expanded="false" aria-controls="medicaidexp_abstract">Abstract</button>
+      <button class="btn btn-primary" onclick="window.open('https://doi.org/10.1016/j.ajog.2020.08.007');">Paper</button>
+      </div>
+    </div>
+  </div>
+    
+  <div class="row" id="medicaidexp_sub">
+    <div id="medicaidexp_citation" class="collapse">
+      <p>[In Press]</p>
+      <p>Albright, Benjamin B., Dimitrios Nasioudis, Stuart Craig, Haley A. Moss, Nawar A. Latif, Emily M. Ko, and Ashley F. Haggerty. "Impact of Medicaid expansion on women with gynecologic cancer: a difference-in-difference analysis." American Journal of Obstetrics and Gynecology (2020).</p>
+    </div>
+    <div id="medicaidexp_abstract" class="collapse">
+      <p>Background</p>
+      <p>Women with gynecologic cancer face socioeconomic disparities in care that affect survival outcomes. The Affordable Care Act offered states the option to expand Medicaid enrollment eligibility criteria as a means of improving timely and affordable access to care for the most vulnerable. The variable uptake of expansion by states created a natural experiment, allowing for quasi-experimental methods that offer more unbiased estimates of treatment effects from retrospective data than the traditional regression adjustment.</p>
+      <p>Objective</p>
+      <p>To use a quasi-experimental, difference-in-difference framework to create unbiased estimates of impact of Medicaid expansion on women with gynecologic cancer.</p>
+      <p>Study Design</p>
+      <p>We performed a quasi-experimental retrospective cohort study from the National Cancer Database files for women with invasive cancers of the uterus, ovary and fallopian tube, cervix, vagina, and vulva diagnosed from 2008 to 2016. Using a marker for state Medicaid expansion status, we created difference-in-difference models to assess the impact of Medicaid expansion on the outcomes of access to and timeliness of care. We excluded women aged <40 years owing to the suppression of the state Medicaid expansions status in the data and women aged ≥65 years owing to the universal Medicare coverage availability. Our primary outcome was the rate of uninsurance at diagnosis. Secondary outcomes included Medicaid coverage, early-stage diagnosis, treatment at an academic facility, and any treatment or surgery within 30 days of diagnosis. Models were run within multiple subgroups and on a propensity-matched cohort to assess the robustness of the treatment estimates. The assumption of parallel trends was assessed with event study time plots.</p>
+      <p>Results</p>
+      <p>Our sample included 335,063 women. Among this cohort, 121,449 were from nonexpansion states and 213,614 were from expansion states, with 79,886 posttreatment cases diagnosed after the expansion took full effect in expansion states. The groups had minor differences in demographics, and we found occasional preperiod event study coefficients diverging from the mean, but the outcome trends were generally similar between the expansion and nonexpansion states in the preperiod, satisfying the necessary assumption for the difference-in-difference analysis. In a basic difference-in-difference model, the Medicaid expansion in January 2014 was associated with significant increases in insurance at diagnosis, treatment at an academic facility, and treatment within 30 days of diagnosis (P<.001 for all). In an adjusted model including all states and accounting for variable expansion implementation time, there was a significant treatment effect of Medicaid expansion on the reduction in uninsurance at diagnosis (−2.00%; 95% confidence interval, −2.3 to −1.7; P<.001), increases in early-stage diagnosis (0.80%; 95% confidence interval, 0.2–1.4; P=.02), treatment at an academic facility (0.83%; 95% confidence interval, 0.1–1.5; P=.02), treatment within 30 days (1.62%; 95% confidence interval, 1.0–2.3; P<.001), and surgery within 30 days (1.54%; 95% confidence interval, 0.8–2.3; P<.001). In particular, large gains were estimated for women living in low-income zip codes, Hispanic women, and women with cervical cancer. Estimates from the subgroup and propensity-matched cohorts were generally consistent for all outcomes besides early-stage diagnosis and treatment within 30 days.</p>
+      <p>Conclusion</p>
+      <p>Medicaid expansion was significantly associated with gains in the access and timeliness of treatment for nonelderly women with gynecologic cancer. The implementation of Medicaid expansion could greatly benefit women in nonexpansion states. Gynecologists and gynecologic oncologists should advocate for Medicaid expansion as a means of improving outcomes and reducing socioeconomic and racial disparities.</p>
+   </div>
+  </div>
+</div>
 
-**Variation In Health Spending For the Privately Insured From 2007 to 2014**<br>
+
+
+
+<!--- Spending Growth --->
+
+**Variation In Health Spending Growth For the Privately Insured From 2007 to 2014**<br>
 **Health Affairs, 2019**<br>
 _with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen_
 <details>
