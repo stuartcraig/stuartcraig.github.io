@@ -41,38 +41,36 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
 <div class="container-fluid">
   <div class="row">
     <div class="btn-group btn-group-justified">
-      <button class="btn btn-primary">Full Citation</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEcitation" aria-expanded="false" aria-controls="QJEcitation">Full Citation</button>
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEabstract" aria-expanded="false" aria-controls="QJEabstract">Abstract</button>
       <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/qjy020.pdf');">Paper</button>
-      <button class="btn btn-primary">Appendix</button>
+      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/20180507_variation_appendix_0.pdf';")>Appendix</button>
       <button class="btn btn-primary">Data</button>
-      <button class="btn btn-primary">Press</button>
-      <button class="btn btn-primary">Awards</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEpress" aria-expanded="false" aria-controls="QJEpress">Press</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEawards" aria-expanded="false" aria-controls="QJEawards">Awards</button>
       </div>
   </div>
     
   <div class="row" id="sub">
+    <div id="QJEcitation" class="collapse">
+      <p>Cooper, Zack, Stuart V. Craig, Martin Gaynor, and John Van Reenen. "The price ain’t right? Hospital prices and health spending on the privately insured." The Quarterly Journal of Economics 134, no. 1 (2019): 51-107.</p>
+    </div>
     <div id="QJEabstract" class="collapse">
       <p>We use insurance claims data for 27.6 percent of individuals with private employer-sponsored insurance in the US between 2007 and 2011 to examine the variation in health spending and in hospitals’ transaction prices. We document the variation in hospital prices within and across geographic areas, examine how hospital prices influence the variation in health spending on the privately insured, and analyze the factors associated with hospital price variation. Four key findings emerge. First, health care spending per privately insured beneficiary varies by a factor of three across the 306 Hospital Referral Regions (HRRs) in the US. Moreover, the correlation between total spending per privately insured beneficiary and total spending per Medicare beneficiary across HRRs is only 0.14. Second, variation in providers’ transaction prices across HRRs is the primary driver of spending variation for the privately insured, whereas variation in the quantity of care provided across HRRs is the primary driver of Medicare spending variation. Consequently, extrapolating lessons on health spending from Medicare to the privately insured must be done with caution. Third, we document large dispersion in overall inpatient hospital prices and in prices for seven relatively homogenous procedures. For example, hospital prices for lower-limb MRIs vary by a factor of twelve across the nation and, on average, two-fold within HRRs. Finally, hospital prices are positively associated with indicators of hospital market power. Even after conditioning on many demand and cost factors, hospital prices in monopoly markets are 15.3 percent higher than those in markets with four or more hospitals.</p>
    </div>
+  <div id="QJEawards" class="collapse">
+    * <a href="https://www.nihcm.org/categories/announcing-the-winners-of-the-25th-annual-research-award">NIHCM Foundation Research Award </a>
+  </div>
+  <div id="QJEpress" class="collapse">
+    * <a href="https://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html">NYT</a>, 
+    * <a href="https://www.wsj.com/articles/what-does-knee-surgery-cost-few-know-and-thats-a-problem-1534865358">WSJ</a>, 
+    * <a href="https://www.newyorker.com/news/news-desk/health-cares-cost-conundrum-squared">New Yorker</a>,
+    * <a href="https://www.marketplace.org/2015/12/14/health-care/unprecedented-look-medical-costs-nationwide/">NPR Marketplace</a>,
+    * <a href="https://www.vox.com/policy-and-politics/2018/5/9/17337134/health-care-costs-hospital-rates-insurance">Vox</a><br>
+  </div>
   </div>
 </div>
 
-<details>
-<summary>Honors</summary>
-  
-* <a href="https://www.nihcm.org/categories/announcing-the-winners-of-the-25th-annual-research-award">NIHCM Foundation Research Award </a>
-</details>
-<details>
-<summary>Press</summary>
-  
-* <a href="https://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html">NYT</a>, 
-* <a href="https://www.wsj.com/articles/what-does-knee-surgery-cost-few-know-and-thats-a-problem-1534865358">WSJ</a>, 
-* <a href="https://www.newyorker.com/news/news-desk/health-cares-cost-conundrum-squared">New Yorker</a>,
-* <a href="https://www.marketplace.org/2015/12/14/health-care/unprecedented-look-medical-costs-nationwide/">NPR Marketplace</a>,
-* <a href="https://www.vox.com/policy-and-politics/2018/5/9/17337134/health-care-costs-hospital-rates-insurance">Vox</a><br>
-</details>
-<br>
 
 <H2>Health, Policy, Measurement</H2>
 
