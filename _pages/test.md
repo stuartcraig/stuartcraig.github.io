@@ -40,7 +40,7 @@ _with Matthew Grennan and Ashley Swanson_
 _with Zack Cooper, Martin Gaynor, and John Van Reenen_
 <div class="container-fluid">
   <div class="row">
-   <div class='wrapper text-center'>
+   <div style="text-indent: 1em;">
     <div class="btn-group btn-group-justified">
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEcitation" aria-expanded="false" aria-controls="QJEcitation">Full Citation</button>
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEabstract" aria-expanded="false" aria-controls="QJEabstract">Abstract</button>
