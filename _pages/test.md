@@ -6,7 +6,11 @@ layout: single
 ---
 {% include base_path %}
 {% seo %}
-
+$(document).ready(function() {
+  $('#sub').on('show.bs.collapse', function() {
+    $('#sub .collapse').collapse('hide')
+  })
+});
 
   
 <!--- Job Market Paper --->
