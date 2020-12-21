@@ -43,7 +43,7 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
     <div class="btn-group btn-group-justified">
       <button class="btn btn-primary">Full Citation</button>
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#sub" data-target="#QJEabstract" aria-expanded="false" aria-controls="QJEabstract">Abstract</button>
-      <button class="btn btn-primary" onclick="openInNewTab('https://stuartcraig.github.io/files/qjy020.pdf');">Paper</button>
+      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/qjy020.pdf');">Paper</button>
       <button class="btn btn-primary">Appendix</button>
       <button class="btn btn-primary">Data</button>
       <button class="btn btn-primary">Press</button>
