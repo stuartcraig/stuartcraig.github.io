@@ -8,7 +8,9 @@ layout: single
 {% seo %}
   
 <!--- Job Market Paper --->
-**Job Market Paper: Competition in Employer Sponsored Health Insurance: Implications for a Public Option**
+## Job Market Paper
+
+**Competition in Employer Sponsored Health Insurance: Implications for a Public Option**
 <div class="container-fluid">
   <div class="row">
    <div style="text-indent: 1em;">
@@ -25,9 +27,9 @@ layout: single
 </div>
 <br>
 
-<H1>Published and Accepted</H1>
+# Published and Accepted
 
-<H2>Economics</H2>
+## Economics
 
 <!--- Mergers and marginal costs --->
 **Mergers and Marginal Costs: New Evidence from Hospital Input Markets**<br>
@@ -112,7 +114,7 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
 </script>
 <br>
 
-<H2>Health, Policy, Measurement</H2>
+## Health, Policy, Measurement
 
 <!--- Medicaid Expansion --->
 **Impact of Medicaid Expansion on Women with Gynecologic Cancer: a Difference-in-Difference Analysis**<br>
@@ -153,105 +155,158 @@ _with Benjamin B. Albright, Dimitrios Nasioudis, Haley A. Moss, Nawar A. Latif, 
 
 
 <!--- Spending Growth --->
-
 **Variation In Health Spending Growth For the Privately Insured From 2007 to 2014**<br>
 **Health Affairs, 2019**<br>
 _with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen_
-<details>
-  <summary>Full Citation</summary>
-
-Zack Cooper, <b>Stuart V Craig</b>, Charles Gray, Martin Gaynor, and John Van Reenen. “<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05245" target="_blank">Variation In Health Spending For the Privately Insured From 2007 to 2014,</a>" Health Affairs, February 2019, 38(2): 230-236. 
-</details>
-<details>
-<summary>Honors</summary>
-
-* <a href="https://www.healthaffairs.org/do/10.1377/hblog20191227.167140/full/" target="_blank">Health Affairs' Top 10 Most-Read Articles of 2019</a>
-</details>
-<details>
-<summary>Press</summary>
-
-* <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending" target="_blank">Modern Healthcare</a><br>
-</details>
+<div class="container-fluid">
+  <div class="row">
+   <div style="text-indent: 1em;">
+    <div class="btn-group btn-group-justified">
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#growthvar_sub" data-target="#growthvar_citation" aria-expanded="false" aria-controls="growthvar_citation">Full Citation</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#growthvar_sub" data-target="#growthvar_abstract" aria-expanded="false" aria-controls="growthvar_abstract">Abstract</button>
+      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/hlthaff.2018.05245.pdf');">Paper</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#growthvar_sub" data-target="#growthvar_press" aria-expanded="false" aria-controls="growthvar_press">Press</button>
+      </div>
+    </div>
+  </div>
+  <div class="row" id="growthvar_sub">
+    <div id="growthvar_citation" class="collapse">
+      <p>Zack Cooper, <b>Stuart V Craig</b>, Charles Gray, Martin Gaynor, and John Van Reenen. “<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05245" target="_blank">Variation In Health Spending For the Privately Insured From 2007 to 2014,</a>" Health Affairs, February 2019, 38(2): 230-236.</p>
+    </div>
+    <div id="growthvar_abstract" class="collapse">
+      <p>We examined the growth in health spending on people with employer-sponsored private insurance in the period 2007–14. Our analysis relied on information from the Health Care Cost Institute data set, which includes insurance claims from Aetna, Humana, and UnitedHealthcare. In the study period private health spending per enrollee grew 16.9 percent, while growth in Medicare spending per fee-for-service beneficiary decreased 1.2 percent. There was substantial variation in private spending growth rates across hospital referral regions (HRRs): Spending in HRRs in the tenth percentile of private spending growth grew at 0.22 percent per year, while HRRs in the ninetieth percentile experienced 3.45 percent growth per year. The correlation between the growth in HRR-level private health spending and growth in fee-for-service Medicare spending in the study period was only 0.211. The low correlation across HRRs suggests that different factors may be driving the growth in spending on the two populations.</p>
+   </div>
+  <div id="growthvar_press" class="collapse">
+    <ul>
+      <li> <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending" target="_blank">Modern Healthcare</a></li>
+    </ul>
+  </div>
+  </div>
+</div>
 <br>
 
+
+<!--- Physician/Facility Prices --->
 **Hospital Prices Grew Substantiall Faster Than Physician Prices For Hospital-Based Care In 2007-2014**<br>
 **Health Affairs, 2019**<br>
 _with Zack Cooper, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen_
-<details>
-  <summary>Full Citation</summary>
-
-Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen. "<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05424" target="_blank">Hospital Prices Grew Substantiall Faster Than Physician Prices For Hospital-Based Care In 2007-2014</a>," Health Affairs, February 2019, 38(2): 184-189.
-</details>
-<details>
-<summary>Press</summary>
-
-* <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending" target="_blank">Modern Healthcare</a><br>
-</details>
+<div class="container-fluid">
+  <div class="row">
+   <div style="text-indent: 1em;">
+    <div class="btn-group btn-group-justified">
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#phyfac_sub" data-target="#phyfac_citation" aria-expanded="false" aria-controls="phyfac_citation">Full Citation</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#phyfac_sub" data-target="#phyfac_abstract" aria-expanded="false" aria-controls="phyfac_abstract">Abstract</button>
+      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/hlthaff.2018.05424.pdf');">Paper</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#phyfac_sub" data-target="#phyfac_press" aria-expanded="false" aria-controls="phyfac_press">Press</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#phyfac_sub" data-target="#phyfac_awards" aria-expanded="false" aria-controls="phyfac_awards">Honors</button>
+      </div>
+    </div>
+  </div>
+    
+  <div class="row" id="phyfac_sub">
+    <div id="phyfac_citation" class="collapse">
+      <p>Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen. "<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05424" target="_blank">Hospital Prices Grew Substantiall Faster Than Physician Prices For Hospital-Based Care In 2007-2014</a>," Health Affairs, February 2019, 38(2): 184-189.</p>
+    </div>
+    <div id="phyfac_abstract" class="collapse">
+      <p>Evidence suggests that growth in providers’ prices drives growth in health care spending on the privately insured. However, existing work has not systematically differentiated between the growth rate of hospital prices and that of physician prices. We analyzed growth in both types of prices for inpatient and hospital-based outpatient services using actual negotiated prices paid by insurers.We found that in the period 2007–14 hospital prices grew substantially faster than physician prices. For inpatient care, hospital prices grew 42 percent, while physician prices grew 18 percent. Similarly, for hospital-based outpatient care, hospital prices grew 25 percent, while physician prices grew 6 percent. A majority of the growth in payments for inpatient and hospital-based outpatient care was driven by growth in hospital prices, not physician prices. Our work suggests that efforts to reduce health care spending should be primarily focused on addressing growth in hospital rather than physician prices. Policy makers should consider a range of options to address hospital price growth, including antitrust enforcement, administered pricing, the use of reference pricing, and incentivizing referring physicians to make more cost-efficient referrals.</p>
+   </div>
+  <div id="phyfac_press" class="collapse">
+    <ul>
+      <li> <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending" target="_blank">Modern Healthcare</a></li>
+    </ul>
+  </div>
+  <div id="phyfac_awards" class="collapse">
+    <ul>
+      <li> <a href="https://www.healthaffairs.org/do/10.1377/hblog20191227.167140/full/" target="_blank">Health Affairs' Top 10 Most-Read Articles of 2019</a></li>
+    </ul>
+  </div>
+  </div>
+</div>
 <br>
 
+
+<!--- ESI --->
 **The Economic Security Index: A New Measure for Research and Policy Analysis**<br>
 **The Review of Income and Wealth, 2014**<br>
 _with Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, and Robert G. Valletta_
-<details>
-  <summary>Full Citation</summary>
-  
-Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, Robert G. Valletta, and Stuart Craig. “<a href="https://stuartcraig.github.io/files/hacker_et_al_2014.pdf" target="_blank">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, July 2014, Vol 60, Issue S1: S5-S32.
-</details>
-<details>
-  <summary>Press</summary>
-  
-  * <a href="http://economicsecurityindex.org/?p=press" target="_blank">Lots of links here</a>  
-</details>
+<div class="container-fluid">
+  <div class="row">
+   <div style="text-indent: 1em;">
+    <div class="btn-group btn-group-justified">
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#esi_sub" data-target="#esi_citation" aria-expanded="false" aria-controls="esi_citation">Full Citation</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#esi_sub" data-target="#esi_abstract" aria-expanded="false" aria-controls="esi_abstract">Abstract</button>
+      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/hacker_et_al_2014.pdf');">Paper</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#esi_sub" data-target="#esi_press" aria-expanded="false" aria-controls="esi_press">Press</button>
+      </div>
+    </div>
+  </div>
+  <div class="row" id="esi_sub">
+    <div id="esi_citation" class="collapse">
+      <p>Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, Robert G. Valletta, and Stuart Craig. “<a href="https://stuartcraig.github.io/files/hacker_et_al_2014.pdf" target="_blank">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, July 2014, Vol 60, Issue S1: S5-S32.</p>
+    </div>
+    <div id="esi_abstract" class="collapse">
+      <p>This article presents the Economic Security Index (ESI), a new measure of economic insecurity. TheESI assesses the individual-level occurrence of substantial year-to-year declines in available householdresources, accounting for fluctuations not only in income but also in out-of-pocket medical expenses. Italso assesses whether those experiencing such declines have sufficient liquid financial wealth to bufferagainst these shocks. We find that insecurity—the share of individuals experiencing substantial resourcedeclines without adequate financial buffers—has risen steadily since the mid-1980s for virtually all sub-groups of Americans, albeit with cyclical fluctuation. At the same time, we find that there is substantialdisparity in the degree to which different subgroups are exposed to economic risk. As the ESI derivesfrom a data-independent conceptual foundation, it can be measured using different panel datasets. We findthat the degree and disparity by which insecurity has risen is robust across the best available sources.</p>
+   </div>
+  <div id="esi_press" class="collapse">
+    <ul>
+      <li><a href="http://economicsecurityindex.org/?p=press" target="_blank">Lots of links here</a></li>
+    </ul>
+  </div>
+  </div>
+</div>
 <br>
 
-<H1>Working Papers and Works in Progress</H1>
+
+
+
+# Working Papers and Works in Progress
 
 **How Important Is Price variation Between Health Insurers?**<br>
 **Revised and Resubmitted at Journal of Health Economics**<br>
 _with Keith Ericson, and Amanda Starc_
-<details>
-  <summary>Draft</summary>
-  
-  <a href="https://stuartcraig.github.io/files/w25190.pdf" target="_blank">NBER Working Paper 25190</a>, October 2018</details>
+<div class="container-fluid">
+  <div class="row">
+   <div style="text-indent: 1em;">
+    <div class="btn-group btn-group-justified">
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#betweenins_sub" data-target="#betweenins_citation" aria-expanded="false" aria-controls="betweenins_citation">Full Citation</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#betweenins_sub" data-target="#betweenins_abstract" aria-expanded="false" aria-controls="betweenins_abstract">Abstract</button>
+      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/w25190.pdf');">Paper</button>
+      </div>
+    </div>
+  </div>
+  <div class="row" id="betweenins_sub">
+    <div id="betweenins_citation" class="collapse">
+      <p>Stuart V. Craig, Keith Marzilli Ericson, and Amanda Starc. "How Important is Price Variation Between Health Insurers." NBER Working Paper 25190.</p>
+    </div>
+    <div id="betweenins_abstract" class="collapse">
+      <p>Prices negotiated between payers and providers affect a health insurance contract’s value via enrollees’ cost-sharing and self-insured employers’ costs. However, price variation across payers is difficult to observe. We measure negotiated prices for hospital-payer pairs in Massachusetts and characterize price variation. Between-payer price variation is similar in magnitude to between-hospital price variation. Administrative-services-only contracts, in which insurers do not bear risk, have higher prices. We model negotiation incentives and show that contractual form and demand responsiveness to negotiated prices are important determinants of negotiated prices.</p>
+   </div>
+  </div>
+</div>
 <br>
+
+
 
 **Vertical Integration and Control: Evidence from Medical Technology**<br>
 _with Matt Grennan, Joseph Martinez, and Ashley Swanson_
-<details>
-  <summary>
-    Abstract
-  </summary>
-Hospitals and physicians – which have historically acted as organizationally and financially distinct co-
-producers of care – have become increasingly integrated in recent years. Firms’ stated objectives for
-physician practice ownership have focused on sharing back-office functions, improving information flow,
-and facilitating care coordination. However, recent evidence on physician-hospital integration suggests
-that it primarily leads to higher prices and greater steering of patients to owning facilities, without
-concomitant improvements in patient outcomes.
-  
-In this paper, we ask whether physician-hospital integration enables hospitals to resolve agency
-problems between administrators and physicians, focusing on hospital purchasing of medical devices.
-While hospitals negotiate prices for – and bear the cost of – implantable medical devices, at point of use
-these products are selected by physicians whose choices may be price-insensitive due to brand loyalty
-or inattention. These implantable medical devices account for 23 percent of hospital operating costs,
-and prices vary widely across hospitals, suggesting large potential savings in the cost of health care
-delivery. Hospitals’ seeking to negotiate lower prices through bargaining must be able to credibly
-remove the supplier from its choice set, and hospitals and physicians often disagree about tradeoffs
-regarding price and perceived quality across competing brands. Hospitals would prefer to procure those
-brands that are cheapest, subject to meeting a basic quality standard. However, they must also cater to
-the preferences of surgeons who may take their profitable procedures elsewhere.
-
-This paper examines the possibility that hospital employment of physicians changes this paradigm. Using
-machine learning algorithms, physician practice tax identifiers, survey data on hospital integration, and a
-large sample of practices with validated integration, we find that physician integration in the U.S.
-increased from 27% of physicians in 2008 to 45% in 2016, with significant variation across geographies
-and specialties. We combine these physician integration data with unique hospital-level data on pricing
-and utilization of medical devices, as well as data on procedural volumes. We ask whether hospitals and
-health systems achieve lower costs in purchasing of medical devices after acquiring the practices of
-surgeons who implant those devices. We then explore the extent to which savings are explained by
-renegotiation of procurement contracts, holding utilization fixed, vs. utilization changes in the form of
-standardization, brand switching, and expansion in procedure volume due to greater steering.
-</details>
+<div class="container-fluid">
+  <div class="row">
+   <div style="text-indent: 1em;">
+    <div class="btn-group btn-group-justified">
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#ecriVI_sub" data-target="#ecriVI_abstract" aria-expanded="false" aria-controls="ecriVI_abstract">Abstract</button>
+      </div>
+    </div>
+  </div>
+  <div class="row" id="ecriVI_sub">
+    <div id="ecriVI_abstract" class="collapse">
+      <p>Hospitals and physicians – which have historically acted as organizationally and financially distinct co-producers of care – have become increasingly integrated in recent years. Firms’ stated objectives for physician practice ownership have focused on sharing back-office functions, improving information flow, and facilitating care coordination. However, recent evidence on physician-hospital integration suggests that it primarily leads to higher prices and greater steering of patients to owning facilities, without concomitant improvements in patient outcomes.</p>
+      <p>In this paper, we ask whether physician-hospital integration enables hospitals to resolve agency problems between administrators and physicians, focusing on hospital purchasing of medical devices. While hospitals negotiate prices for – and bear the cost of – implantable medical devices, at point of use these products are selected by physicians whose choices may be price-insensitive due to brand loyalty or inattention. These implantable medical devices account for 23 percent of hospital operating costs, and prices vary widely across hospitals, suggesting large potential savings in the cost of health care delivery. Hospitals’ seeking to negotiate lower prices through bargaining must be able to credibly remove the supplier from its choice set, and hospitals and physicians often disagree about tradeoffs regarding price and perceived quality across competing brands. Hospitals would prefer to procure those brands that are cheapest, subject to meeting a basic quality standard. However, they must also cater to the preferences of surgeons who may take their profitable procedures elsewhere.</p>
+      <p>This paper examines the possibility that hospital employment of physicians changes this paradigm. Using machine learning algorithms, physician practice tax identifiers, survey data on hospital integration, and a large sample of practices with validated integration, we find that physician integration in the U.S. increased from 27% of physicians in 2008 to 45% in 2016, with significant variation across geographies and specialties. We combine these physician integration data with unique hospital-level data on pricing and utilization of medical devices, as well as data on procedural volumes. We ask whether hospitals and health systems achieve lower costs in purchasing of medical devices after acquiring the practices of surgeons who implant those devices. We then explore the extent to which savings are explained by renegotiation of procurement contracts, holding utilization fixed, vs. utilization changes in the form of standardization, brand switching, and expansion in procedure volume due to greater steering.</p>
+   </div>
+  </div>
+</div>
 <br>
+
 
 **Who Pays for Rent-Seeking in Health Care? The Effect of Hospital Mergers on Local Labor Markets**<br>
 _with Zarek Brot-Goldberg and Zack Cooper_
