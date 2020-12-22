@@ -1,5 +1,5 @@
 ---
-title: "test"
+title: ""
 permalink: /test/
 author_profile: true
 layout: single
@@ -92,6 +92,7 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
       <li> <a href="https://www.newyorker.com/news/news-desk/health-cares-cost-conundrum-squared">New Yorker</a></li>
       <li> <a href="https://www.marketplace.org/2015/12/14/health-care/unprecedented-look-medical-costs-nationwide/">NPR Marketplace</a></li>
       <li> <a href="https://www.vox.com/policy-and-politics/2018/5/9/17337134/health-care-costs-hospital-rates-insurance">Vox</a></li>
+      <li> <a href="https://healthcarepricingproject.org/news">More links here</a></li>
     </ul>
   </div>
   <div id="priceaintright_awards" class="collapse">
