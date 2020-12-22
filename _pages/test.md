@@ -53,6 +53,7 @@ _with Matthew Grennan and Ashley Swanson_
       <li><a href="https://www.nber.org/digest/oct18/w24926.shtml" target="_blank">NBER Digest</a></li>
       <li><a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers" target="_blank">Modern Healthcare</a></li>
       <li><a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html" target="_blank">Axios</a></li>
+      <li><a href="https://www.advisory.com/blog/2019/01/hype-mergers" target="_blank">Advisory Board" target="_blank"</a></li>      
     </ul>
   </div>
   </div>
