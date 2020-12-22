@@ -8,7 +8,7 @@ layout: single
 {% seo %}
   
 <!--- Job Market Paper --->
-## Job Market Paper
+# Job Market Paper
 
 **Competition in Employer Sponsored Health Insurance: Implications for a Public Option**
 <div class="container-fluid">
@@ -187,7 +187,7 @@ _with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen_
 
 
 <!--- Physician/Facility Prices --->
-**Hospital Prices Grew Substantiall Faster Than Physician Prices For Hospital-Based Care In 2007-2014**<br>
+**Hospital Prices Grew Substantially Faster Than Physician Prices For Hospital-Based Care In 2007-2014**<br>
 **Health Affairs, 2019**<br>
 _with Zack Cooper, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen_
 <div class="container-fluid">
