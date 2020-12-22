@@ -71,7 +71,7 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#priceaintright_sub" data-target="#priceaintright_abstract" aria-expanded="false" aria-controls="priceaintright_abstract">Abstract</button>
       <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/qjy020.pdf');">Paper</button>
       <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/20180507_variation_appendix_0.pdf');">Appendix</button>
-      <button class="btn btn-primary">Data</button>
+      <button class="btn btn-primary" onclick="window.open('https://github.com/stuartcraig/aha_marketstructure');">Data</button>
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#priceaintright_sub" data-target="#priceaintright_press" aria-expanded="false" aria-controls="priceaintright_press">Press</button>
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#priceaintright_sub" data-target="#priceaintright_awards" aria-expanded="false" aria-controls="priceaintright_awards">Awards</button>
       </div>
