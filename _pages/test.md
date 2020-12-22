@@ -38,7 +38,7 @@ _with Matthew Grennan and Ashley Swanson_
    <div style="text-indent: 1em;">
     <div class="btn-group btn-group-justified">
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#mergmargcost_sub" data-target="#mergmargcost_abstract" aria-expanded="false" aria-controls="mergmargcost_abstract">Abstract</button>
-      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/mergers_margcosts_May2020.pdf ');">Paper</button>
+      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/mergers_margcosts_May2020.pdf');">Paper</button>
       <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#mergmargcost_sub" data-target="#mergmargcost_press" aria-expanded="false" aria-controls="mergmargcost_press">Press</button>
       </div>
     </div>
@@ -50,9 +50,9 @@ _with Matthew Grennan and Ashley Swanson_
    </div>
   <div id="mergmargcost_press" class="collapse">
     <ul>
-      <li><a href="https://www.nber.org/digest/oct18/w24926.shtml">NBER Digest</a></li>
-      <li><a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers">Modern Healthcare</a></li>
-      <li><a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html">Axios</a></li>
+      <li><a href="https://www.nber.org/digest/oct18/w24926.shtml" target="_blank">NBER Digest</a></li>
+      <li><a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers" target="_blank">Modern Healthcare</a></li>
+      <li><a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html" target="_blank">Axios</a></li>
     </ul>
   </div>
   </div>
@@ -87,17 +87,17 @@ _with Zack Cooper, Martin Gaynor, and John Van Reenen_
    </div>
   <div id="priceaintright_press" class="collapse">
     <ul>
-      <li> <a href="https://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html">NYT</a></li>
-      <li> <a href="https://www.wsj.com/articles/what-does-knee-surgery-cost-few-know-and-thats-a-problem-1534865358">WSJ</a></li>
-      <li> <a href="https://www.newyorker.com/news/news-desk/health-cares-cost-conundrum-squared">New Yorker</a></li>
-      <li> <a href="https://www.marketplace.org/2015/12/14/health-care/unprecedented-look-medical-costs-nationwide/">NPR Marketplace</a></li>
-      <li> <a href="https://www.vox.com/policy-and-politics/2018/5/9/17337134/health-care-costs-hospital-rates-insurance">Vox</a></li>
-      <li> <a href="https://healthcarepricingproject.org/news">More links here</a></li>
+      <li> <a href="https://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html" target="_blank">NYT</a></li>
+      <li> <a href="https://www.wsj.com/articles/what-does-knee-surgery-cost-few-know-and-thats-a-problem-1534865358" target="_blank">WSJ</a></li>
+      <li> <a href="https://www.newyorker.com/news/news-desk/health-cares-cost-conundrum-squared" target="_blank">New Yorker</a></li>
+      <li> <a href="https://www.marketplace.org/2015/12/14/health-care/unprecedented-look-medical-costs-nationwide/" target="_blank">NPR Marketplace</a></li>
+      <li> <a href="https://www.vox.com/policy-and-politics/2018/5/9/17337134/health-care-costs-hospital-rates-insurance" target="_blank">Vox</a></li>
+      <li> <a href="https://healthcarepricingproject.org/news" target="_blank">More links here</a></li>
     </ul>
   </div>
   <div id="priceaintright_awards" class="collapse">
     <ul>
-      <li><a href="https://www.nihcm.org/categories/announcing-the-winners-of-the-25th-annual-research-award">NIHCM Foundation Research Award</a></li>
+      <li><a href="https://nihcm.org/awards/research/winners" target="_blank">NIHCM Foundation Research Award</a></li>
     </ul>
   </div>
   </div>
@@ -159,17 +159,17 @@ _with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen_
 <details>
   <summary>Full Citation</summary>
 
-Zack Cooper, <b>Stuart V Craig</b>, Charles Gray, Martin Gaynor, and John Van Reenen. “<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05245">Variation In Health Spending For the Privately Insured From 2007 to 2014,</a>" Health Affairs, February 2019, 38(2): 230-236. 
+Zack Cooper, <b>Stuart V Craig</b>, Charles Gray, Martin Gaynor, and John Van Reenen. “<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05245" target="_blank">Variation In Health Spending For the Privately Insured From 2007 to 2014,</a>" Health Affairs, February 2019, 38(2): 230-236. 
 </details>
 <details>
 <summary>Honors</summary>
 
-* <a href="https://www.healthaffairs.org/do/10.1377/hblog20191227.167140/full/">Health Affairs' Top 10 Most-Read Articles of 2019</a>
+* <a href="https://www.healthaffairs.org/do/10.1377/hblog20191227.167140/full/" target="_blank">Health Affairs' Top 10 Most-Read Articles of 2019</a>
 </details>
 <details>
 <summary>Press</summary>
 
-* <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending">Modern Healthcare</a><br>
+* <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending target="_blank">Modern Healthcare</a><br>
 </details>
 <br>
 
@@ -179,12 +179,12 @@ _with Zack Cooper, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Va
 <details>
   <summary>Full Citation</summary>
 
-Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen. "<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05424">Hospital Prices Grew Substantiall Faster Than Physician Prices For Hospital-Based Care In 2007-2014</a>," Health Affairs, February 2019, 38(2): 184-189.
+Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen. "<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05424" target="_blank">Hospital Prices Grew Substantiall Faster Than Physician Prices For Hospital-Based Care In 2007-2014</a>," Health Affairs, February 2019, 38(2): 184-189.
 </details>
 <details>
 <summary>Press</summary>
 
-* <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending">Modern Healthcare</a><br>
+* <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending" target="_blank">Modern Healthcare</a><br>
 </details>
 <br>
 
@@ -194,12 +194,12 @@ _with Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schl
 <details>
   <summary>Full Citation</summary>
   
-Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, Robert G. Valletta, and Stuart Craig. “<a href="http://onlinelibrary.wiley.com/doi/10.1111/roiw.12053/full">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, July 2014, Vol 60, Issue S1: S5-S32.
+Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, Robert G. Valletta, and Stuart Craig. “<a href="https://stuartcraig.github.io/files/hacker_et_al_2014.pdf" target="_blank">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, July 2014, Vol 60, Issue S1: S5-S32.
 </details>
 <details>
   <summary>Press</summary>
   
-  * <a href="http://economicsecurityindex.org/?p=press">Lots of links here</a>  
+  * <a href="http://economicsecurityindex.org/?p=press" target="_blank">Lots of links here</a>  
 </details>
 <br>
 
@@ -211,7 +211,7 @@ _with Keith Ericson, and Amanda Starc_
 <details>
   <summary>Draft</summary>
   
-  <a href="https://stuartcraig.github.io/files/w25190.pdf">NBER Working Paper 25190</a>, October 2018</details>
+  <a href="https://stuartcraig.github.io/files/w25190.pdf" target="_blank">NBER Working Paper 25190</a>, October 2018</details>
 <br>
 
 **Vertical Integration and Control: Evidence from Medical Technology**<br>
