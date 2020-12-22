@@ -169,7 +169,7 @@ Zack Cooper, <b>Stuart V Craig</b>, Charles Gray, Martin Gaynor, and John Van Re
 <details>
 <summary>Press</summary>
 
-* <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending target="_blank">Modern Healthcare</a><br>
+* <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending" target="_blank">Modern Healthcare</a><br>
 </details>
 <br>
 
