@@ -31,6 +31,30 @@ layout: single
 
 ## Economics
 
+**How Important Is Price variation Between Health Insurers?**<br>
+**Accepted at Journal of Health Economics**<br>
+_with Keith Ericson, and Amanda Starc_
+<div class="container-fluid">
+  <div class="row">
+   <div style="text-indent: 1em;">
+    <div class="btn-group btn-group-justified">
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#betweenins_sub" data-target="#betweenins_citation" aria-expanded="false" aria-controls="betweenins_citation">Full Citation</button>
+      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#betweenins_sub" data-target="#betweenins_abstract" aria-expanded="false" aria-controls="betweenins_abstract">Abstract</button>
+      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/w25190.pdf');">Paper</button>
+      </div>
+    </div>
+  </div>
+  <div class="row" id="betweenins_sub">
+    <div id="betweenins_citation" class="collapse">
+      <p>Stuart V. Craig, Keith Marzilli Ericson, and Amanda Starc. "How Important is Price Variation Between Health Insurers." NBER Working Paper 25190.</p>
+    </div>
+    <div id="betweenins_abstract" class="collapse">
+      <p>Prices negotiated between payers and providers affect a health insurance contract’s value via enrollees’ cost-sharing and self-insured employers’ costs. However, price variation across payers is difficult to observe. We measure negotiated prices for hospital-payer pairs in Massachusetts and characterize price variation. Between-payer price variation is similar in magnitude to between-hospital price variation. Administrative-services-only contracts, in which insurers do not bear risk, have higher prices. We model negotiation incentives and show that contractual form and demand responsiveness to negotiated prices are important determinants of negotiated prices.</p>
+   </div>
+  </div>
+</div>
+<br>
+
 <!--- Mergers and marginal costs --->
 **Mergers and Marginal Costs: New Evidence from Hospital Input Markets**<br>
 **Accepted at Rand Journal of Economics**<br>
@@ -260,30 +284,6 @@ _with Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schl
 
 
 # Working Papers and Works in Progress
-
-**How Important Is Price variation Between Health Insurers?**<br>
-**Revised and Resubmitted at Journal of Health Economics**<br>
-_with Keith Ericson, and Amanda Starc_
-<div class="container-fluid">
-  <div class="row">
-   <div style="text-indent: 1em;">
-    <div class="btn-group btn-group-justified">
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#betweenins_sub" data-target="#betweenins_citation" aria-expanded="false" aria-controls="betweenins_citation">Full Citation</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#betweenins_sub" data-target="#betweenins_abstract" aria-expanded="false" aria-controls="betweenins_abstract">Abstract</button>
-      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/w25190.pdf');">Paper</button>
-      </div>
-    </div>
-  </div>
-  <div class="row" id="betweenins_sub">
-    <div id="betweenins_citation" class="collapse">
-      <p>Stuart V. Craig, Keith Marzilli Ericson, and Amanda Starc. "How Important is Price Variation Between Health Insurers." NBER Working Paper 25190.</p>
-    </div>
-    <div id="betweenins_abstract" class="collapse">
-      <p>Prices negotiated between payers and providers affect a health insurance contract’s value via enrollees’ cost-sharing and self-insured employers’ costs. However, price variation across payers is difficult to observe. We measure negotiated prices for hospital-payer pairs in Massachusetts and characterize price variation. Between-payer price variation is similar in magnitude to between-hospital price variation. Administrative-services-only contracts, in which insurers do not bear risk, have higher prices. We model negotiation incentives and show that contractual form and demand responsiveness to negotiated prices are important determinants of negotiated prices.</p>
-   </div>
-  </div>
-</div>
-<br>
 
 
 
