@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Stuart Craig"
 title_separator          : "-"
 name                     : &name "Stuart Craig"
-description              : &description "Doctoral Student (PhD) in Health Care Management and Economics at Wharton, University of Pennsylvania (UPenn). Associate Fellow at LDI."
+description              : &description "Postdoctoral Associate, Yale University"
 url                      : https://stuartcraig.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stuartcraig.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Stuart Craig"
   avatar           : "web_small2.jpg"
-  bio              : "Doctoral student at Wharton, Associate Fellow at LDI"
+  bio              : "Postdoctoral Associate"
   location         : 
-  employer         : "University of Pennsylvania"
+  employer         : "Yale University"
   googlescholar    : "https://scholar.google.com/citations?user=9gSiP2wAAAAJ&hl=en"
-  email            : stucraig@upenn.edu
+  email            : stuart.v.craig@gmail.com
   uri              :
   bitbucket        :
   codepen          :
