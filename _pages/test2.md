@@ -7,9 +7,7 @@ layout: single
 {% include base_path %}
 {% seo %}
  
-.button{
- font-size=12.px;
-}
+
 <!--- Job Market Paper --->
 # Job Market Paper
 
@@ -18,7 +16,7 @@ layout: single
   <div class="row">
    <div style="text-indent: 1em;">
     <div class="btn-group btn-group-justified">
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#JMP_sub" data-target="#JMP_abstract" aria-expanded="false" aria-controls="JMP_abstract">Abstract</button>
+      <button class="btn-small btn-primary collapsed" data-toggle="collapse" data-parent="#JMP_sub" data-target="#JMP_abstract" aria-expanded="false" aria-controls="JMP_abstract">Abstract</button>
       </div>
     </div>
   </div>
