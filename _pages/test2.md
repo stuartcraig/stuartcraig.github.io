@@ -171,7 +171,9 @@ layout: single
   </div>
 </div>
 <div class="row">
+  <div class="col">
     <p style="font-size:0.8em;margin-left=3em">Press: <a href="http://economicsecurityindex.org/?p=press" target="_blank">Lots of links here</a></p>
+  </div>
   </div>
 </div>
 
