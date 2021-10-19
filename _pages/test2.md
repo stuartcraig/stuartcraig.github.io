@@ -55,8 +55,10 @@ layout: single
   <div class="col">
     <img src="https://stuartcraig.github.io/files/CGS_thumb.png">
   </div>
-  <p style="font-size:0.8em">Press: <a href="https://www.nber.org/digest/oct18/w24926.shtml" target="_blank">NBER Digest</a>, <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers" target="_blank">Modern Healthcare</a><a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html" target="_blank">Axios</a><a href="https://www.advisory.com/blog/2019/01/hype-mergers" target="_blank">Advisory Board</a></p>
 </div>
+<div class="row">
+    <p style="font-size:0.8em">Press: <a href="https://www.nber.org/digest/oct18/w24926.shtml" target="_blank">NBER Digest</a>, <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers" target="_blank">Modern Healthcare</a><a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html" target="_blank">Axios</a><a href="https://www.advisory.com/blog/2019/01/hype-mergers" target="_blank">Advisory Board</a></p>
+  </div>
 </div>
 
 
