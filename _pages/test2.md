@@ -30,14 +30,10 @@ layout: single
 
 ## Economics
 
-**How Important Is Price variation Between Health Insurers?**<br>
-**Journal of Health Economics, 2021**<br>
-_with Keith Ericson, and Amanda Starc_
-
 <div class="content">
 <div class="row">
   <div class="col">
-    <p style="font-style:1em"><b><a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a> Journal of Health Economics, 2021,</b> <i>with Keith Ericson and Amanda Starc</i></p>
+    <p style="font-style:0.95em"><b><a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a> Journal of Health Economics, 2021,</b> <i>with Keith Ericson and Amanda Starc</i></p>
     <p style="font-size:0.9em"> Some descriptive text</p>
   </div>
   <div class="col">
