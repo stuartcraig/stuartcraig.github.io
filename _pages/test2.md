@@ -83,63 +83,28 @@ layout: single
 </div>
 
 
-
-
-
-**The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured**<br>
-**Quarterly Journal of Economics, 2019**<br>
-_with Zack Cooper, Martin Gaynor, and John Van Reenen_
-<div class="container-fluid">
-  <div class="row">
-   <div style="text-indent: 1em;">
-    <div class="btn-group btn-group-justified">
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#priceaintright_sub" data-target="#priceaintright_citation" aria-expanded="false" aria-controls="priceaintright_citation">Full Citation</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#priceaintright_sub" data-target="#priceaintright_abstract" aria-expanded="false" aria-controls="priceaintright_abstract">Abstract</button>
-      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/qjy020.pdf');">Paper</button>
-      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/20180507_variation_appendix_0.pdf');">Appendix</button>
-      <button class="btn btn-primary" onclick="window.open('https://github.com/stuartcraig/aha_marketstructure');">Data</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#priceaintright_sub" data-target="#priceaintright_press" aria-expanded="false" aria-controls="priceaintright_press">Press</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#priceaintright_sub" data-target="#priceaintright_awards" aria-expanded="false" aria-controls="priceaintright_awards">Awards</button>
-      </div>
-    </div>
-  </div>
-    
-  <div class="row" id="priceaintright_sub">
-    <div id="priceaintright_citation" class="collapse">
-      <p>Cooper, Zack, Stuart V. Craig, Martin Gaynor, and John Van Reenen. "The price ain’t right? Hospital prices and health spending on the privately insured." The Quarterly Journal of Economics 134, no. 1 (2019): 51-107.</p>
-    </div>
-    <div id="priceaintright_abstract" class="collapse">
-      <p>We use insurance claims data for 27.6 percent of individuals with private employer-sponsored insurance in the US between 2007 and 2011 to examine the variation in health spending and in hospitals’ transaction prices. We document the variation in hospital prices within and across geographic areas, examine how hospital prices influence the variation in health spending on the privately insured, and analyze the factors associated with hospital price variation. Four key findings emerge. First, health care spending per privately insured beneficiary varies by a factor of three across the 306 Hospital Referral Regions (HRRs) in the US. Moreover, the correlation between total spending per privately insured beneficiary and total spending per Medicare beneficiary across HRRs is only 0.14. Second, variation in providers’ transaction prices across HRRs is the primary driver of spending variation for the privately insured, whereas variation in the quantity of care provided across HRRs is the primary driver of Medicare spending variation. Consequently, extrapolating lessons on health spending from Medicare to the privately insured must be done with caution. Third, we document large dispersion in overall inpatient hospital prices and in prices for seven relatively homogenous procedures. For example, hospital prices for lower-limb MRIs vary by a factor of twelve across the nation and, on average, two-fold within HRRs. Finally, hospital prices are positively associated with indicators of hospital market power. Even after conditioning on many demand and cost factors, hospital prices in monopoly markets are 15.3 percent higher than those in markets with four or more hospitals.</p>
-   </div>
-  <div id="priceaintright_press" class="collapse">
-    <ul>
-      <li> <a href="https://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html" target="_blank">NYT</a></li>
-      <li> <a href="https://www.wsj.com/articles/what-does-knee-surgery-cost-few-know-and-thats-a-problem-1534865358" target="_blank">WSJ</a></li>
-      <li> <a href="https://www.newyorker.com/news/news-desk/health-cares-cost-conundrum-squared" target="_blank">New Yorker</a></li>
-      <li> <a href="https://www.marketplace.org/2015/12/14/health-care/unprecedented-look-medical-costs-nationwide/" target="_blank">NPR Marketplace</a></li>
-      <li> <a href="https://www.vox.com/policy-and-politics/2018/5/9/17337134/health-care-costs-hospital-rates-insurance" target="_blank">Vox</a></li>
-      <li> <a href="https://healthcarepricingproject.org/news" target="_blank">More links here</a></li>
-    </ul>
-  </div>
-  <div id="priceaintright_awards" class="collapse">
-    <ul>
-      <li><a href="https://nihcm.org/awards/research/winners" target="_blank">NIHCM Foundation Research Award</a></li>
-    </ul>
-  </div>
-  </div>
-</div>
-<script type="text/javascript">
-  $(document).ready(function() {
-    $('#priceaintright_sub').on('show.bs.collapse', function() {
-      $('#priceaintright_sub .collapse').collapse('hide')
-    })
-  });
-</script>
-<br>
-
 ## Health, Policy, Measurement
 
 <!--- Medicaid Expansion --->
+<br>
+<p style="font-style:0.9em"><b><a href="https://doi.org/10.1016/j.ajog.2020.08.007">Impact of Medicaid Expansion on Women with Gynecologic Cancer: a Difference-in-Difference Analysis</a> American Journal of Obstetrics and Gynecology, 2020,</b> <i>with Benjamin B. Albright, Dimitrios Nasioudis, Haley A. Moss, Nawar A. Latif, Emily M. Ko, and Ashley F. Haggerty</i></p>
+<div class="content">
+<div class="row">
+  <div class="col">
+    <p style="font-size:0.8em">TKTK</p>
+  </div>
+  <div class="col">
+    <img src="https://stuartcraig.github.io/files/albrightetal_thumb.png">
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+
 **Impact of Medicaid Expansion on Women with Gynecologic Cancer: a Difference-in-Difference Analysis**<br>
 **American Journal of Obstetrics and Gynecology, 2020**<br>
 _with Benjamin B. Albright, Dimitrios Nasioudis, Haley A. Moss, Nawar A. Latif, Emily M. Ko, and Ashley F. Haggerty_
