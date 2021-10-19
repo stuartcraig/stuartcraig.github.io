@@ -31,7 +31,7 @@ layout: single
 ## Economics
 
 <!--- Price Variation Between Payers --->
-
+<br>
 <p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a> Journal of Health Economics, 2021,</b> <i>with Keith Ericson and Amanda Starc</i></p>
 <div class="content">
 <div class="row">
@@ -47,7 +47,7 @@ layout: single
 
 <!--- Mergers and marginal costs --->
 
-
+<br>
 <p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/mergers_margcosts_May2020.pdf">Mergers and Marginal Costs: New Evidence from Hospital Input Markets</a> RAND Journal of Economics, 2021,</b> <i>with Matthew Grennan and Ashley Swanson</i></p>
 <div class="content">
 <div class="row">
