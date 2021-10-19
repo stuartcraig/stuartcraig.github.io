@@ -57,7 +57,9 @@ layout: single
   </div>
 </div>
 <div class="row">
+  <div class="col">
     <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.nber.org/digest/oct18/w24926.shtml" target="_blank">NBER Digest</a>, <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers" target="_blank">Modern Healthcare</a>, <a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html" target="_blank">Axios</a>, <a href="https://www.advisory.com/blog/2019/01/hype-mergers" target="_blank">Advisory Board</a></p>
+  </div>
   </div>
 </div>
 
@@ -78,7 +80,9 @@ layout: single
   </div>
 </div>
 <div class="row">
+  <div class="col">
     <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html" target="_blank">NYT</a>, <a href="https://www.wsj.com/articles/what-does-knee-surgery-cost-few-know-and-thats-a-problem-1534865358" target="_blank">WSJ</a>, <a href="https://www.newyorker.com/news/news-desk/health-cares-cost-conundrum-squared" target="_blank">New Yorker</a>, <a href="https://www.marketplace.org/2015/12/14/health-care/unprecedented-look-medical-costs-nationwide/" target="_blank">NPR Marketplace</a>, <a href="https://www.vox.com/policy-and-politics/2018/5/9/17337134/health-care-costs-hospital-rates-insurance" target="_blank">Vox</a>, <a href="https://healthcarepricingproject.org/news" target="_blank">More links here</a></p>
+  </div>
   </div>
 </div>
 
@@ -133,7 +137,9 @@ layout: single
   </div>
 </div>
 <div class="row">
+  <div class="col">
     <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending" target="_blank">Modern Healthcare</a></p>
+  </div>
   </div>
 </div>
 
@@ -152,7 +158,9 @@ layout: single
   </div>
 </div>
 <div class="row">
+  <div class="col">
     <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending" target="_blank">Modern Healthcare</a></p>
+  </div>
   </div>
 </div>
 
