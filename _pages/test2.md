@@ -33,6 +33,18 @@ layout: single
 **How Important Is Price variation Between Health Insurers?**<br>
 **Journal of Health Economics, 2021**<br>
 _with Keith Ericson, and Amanda Starc_
+
+<div class="row">
+  <div class="col">
+    Some descriptive text
+  </div>
+  <div class="col">
+    <div class="files/CES_thumb.png"></div>
+  </div>
+</div>
+
+
+
 <div class="container-fluid">
   <div class="row">
    <div style="text-indent: 1em;">
