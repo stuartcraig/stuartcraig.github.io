@@ -6,14 +6,10 @@ layout: single
 ---
 {% include base_path %}
 {% seo %}
- 
 
 <!--- Job Market Paper --->
-->
-# Job Market Paper
-<-
 
-**Competition in Employer Sponsored Health Insurance: Implications for a Public Option**
+**JOB MARKET PAPER: Competition in Employer Sponsored Health Insurance: Implications for a Public Option**
 <div class="container-fluid">
   <div class="row">
    <div style="text-indent: 1em;">
@@ -30,7 +26,7 @@ layout: single
 </div>
 <br>
 
-# Published and Accepted
+<h1 align="center">Published and Accepted</h1>
 
 ## Economics
 
