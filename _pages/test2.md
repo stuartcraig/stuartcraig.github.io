@@ -8,7 +8,8 @@ layout: single
 {% seo %}
 
 <!--- Job Market Paper --->
-<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/CraigJMP_ESHI.pdf">Competition in Employer Sponsored Health Insurance: Implications for a Public Option (JMP)</a></b></p>
+<h1 align="center">Job Market Paper</h1>
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/CraigJMP_ESHI.pdf">Competition in Employer Sponsored Health Insurance: Implications for a Public Option</a></b></p>
 <div class="content">
 <div class="row">
   <div class="col">
