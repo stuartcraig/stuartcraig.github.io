@@ -37,7 +37,7 @@ _with Keith Ericson, and Amanda Starc_
 <div class="content">
 <div class="row">
   <div class="col">
-    Some descriptive text
+    <p style="font-size:11px"> Some descriptive text</p>
   </div>
   <div class="col">
     <img src="http://stuartcraig.github.io/files/CES_thumb.png">
