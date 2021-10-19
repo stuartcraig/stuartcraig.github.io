@@ -51,14 +51,12 @@ layout: single
 <div class="row">
   <div class="col">
     <p style="font-size:0.8em">We estimate the effects of hospital mergers, using detailed data containing medical supply transactions (representing 23 percent of operating costs) from a sample of US hospitals 2009-2015. Pre-merger price variation across hospitals (Gini coefficient 7 percent) suggests significant opportunities for cost decreases. However, we observe limited evidence of actual savings. In this retrospective sample, targets realized 1.9 percent savings; acquirers realize no significant savings. Examining treatment effect heterogeneity to shed light on theories of "buyer power," we find that savings, when they occur, tend to be local, and potential benefits of savings may be offset by managerial costs of merging.</p>
+    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.nber.org/digest/oct18/w24926.shtml" target="_blank">NBER Digest</a>, <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers" target="_blank">Modern Healthcare</a>, <a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html" target="_blank">Axios</a>, <a href="https://www.advisory.com/blog/2019/01/hype-mergers" target="_blank">Advisory Board</a></p>
   </div>
   <div class="col">
     <img src="https://stuartcraig.github.io/files/CGS_thumb.png">
   </div>
 </div>
-<div class="row">
-    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.nber.org/digest/oct18/w24926.shtml" target="_blank">NBER Digest</a>, <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers" target="_blank">Modern Healthcare</a>, <a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html" target="_blank">Axios</a>, <a href="https://www.advisory.com/blog/2019/01/hype-mergers" target="_blank">Advisory Board</a></p>
-  </div>
 </div>
 
 
