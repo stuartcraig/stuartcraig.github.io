@@ -37,8 +37,7 @@ _with Keith Ericson, and Amanda Starc_
 <div class="content">
 <div class="row">
   <div class="col">
-    <p style="font-style:1.1">How Important Is Price variation Between Health Insurers? Journal of Health Economics, 2021</p>
-    <p style="font-style:1.1">with Keith Ericson and Amanda Starc</p>
+    <p style="font-style:1em">How Important Is Price variation Between Health Insurers? Journal of Health Economics, 2021, <i>with Keith Ericson and Amanda Starc</i></p>
     <p style="font-size:0.9em"> Some descriptive text</p>
   </div>
   <div class="col">
