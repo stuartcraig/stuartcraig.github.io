@@ -126,7 +126,7 @@ layout: single
 <div class="content">
 <div class="row">
   <div class="col">
-    <p style="font-size:0.8em">We examined the growth in health spending on people with employer-sponsored private insurance in the period 2007–14. Our analysis relied on information from the Health Care Cost Institute data set, which includes insurance claims from Aetna, Humana, and UnitedHealthcare. In the study period private health spending per enrollee grew 16.9 percent, while growth in Medicare spending per fee-for-service beneficiary decreased 1.2 percent. There was substantial variation in private spending growth rates across hospital referral regions (HRRs): Spending in HRRs in the tenth percentile of private spending growth grew at 0.22 percent per year, while HRRs in the ninetieth percentile experienced 3.45 percent growth per year. The correlation between the growth in HRR-level private health spending and growth in fee-for-service Medicare spending in the study period was only 0.211. The low correlation across HRRs suggests that different factors may be driving the growth in spending on the two populations.</p>
+    <p style="font-size:0.8em">We examined the growth in health spending on people with employer-sponsored private insurance in the period 2007–14. In the study period private health spending per enrollee grew 16.9 percent, while growth in Medicare spending per fee-for-service beneficiary decreased 1.2 percent. There was substantial variation in private spending growth rates across hospital referral regions (HRRs): Spending in HRRs in the tenth percentile of private spending growth grew at 0.22 percent per year, while HRRs in the ninetieth percentile experienced 3.45 percent growth per year. The correlation between the growth in HRR-level private health spending and growth in fee-for-service Medicare spending in the study period was only 0.211, suggesting that different factors may be driving the growth in spending on the two populations.</p>
   </div>
   <div class="col">
     <img src="https://stuartcraig.github.io/files/spendinggrowth_thumb.png">
@@ -145,7 +145,7 @@ layout: single
 <div class="content">
 <div class="row">
   <div class="col">
-    <p style="font-size:0.8em">Evidence suggests that growth in providers’ prices drives growth in health care spending on the privately insured. However, existing work has not systematically differentiated between the growth rate of hospital prices and that of physician prices. We analyzed growth in both types of prices for inpatient and hospital-based outpatient services using actual negotiated prices paid by insurers.We found that in the period 2007–14 hospital prices grew substantially faster than physician prices. For inpatient care, hospital prices grew 42 percent, while physician prices grew 18 percent. Similarly, for hospital-based outpatient care, hospital prices grew 25 percent, while physician prices grew 6 percent. A majority of the growth in payments for inpatient and hospital-based outpatient care was driven by growth in hospital prices, not physician prices. Our work suggests that efforts to reduce health care spending should be primarily focused on addressing growth in hospital rather than physician prices. Policy makers should consider a range of options to address hospital price growth, including antitrust enforcement, administered pricing, the use of reference pricing, and incentivizing referring physicians to make more cost-efficient referrals.</p>
+    <p style="font-size:0.8em">We analyzed growth in both types of prices for inpatient and hospital-based outpatient services using actual negotiated prices paid by insurers. We found that in the period 2007–14 hospital prices grew substantially faster than physician prices. For inpatient care, hospital prices grew 42 percent, while physician prices grew 18 percent. Similarly, for hospital-based outpatient care, hospital prices grew 25 percent, while physician prices grew 6 percent. Policy makers should consider a range of options to address hospital price growth, including antitrust enforcement, administered pricing, the use of reference pricing, and incentivizing referring physicians to make more cost-efficient referrals.</p>
   </div>
   <div class="col">
     <img src="https://stuartcraig.github.io/files/hosphygrowth_thumb.png">
@@ -157,42 +157,26 @@ layout: single
 </div>
 
 
+
 <!--- ESI --->
-**The Economic Security Index: A New Measure for Research and Policy Analysis**<br>
-**The Review of Income and Wealth, 2014**<br>
-_with Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, and Robert G. Valletta_
-<div class="container-fluid">
-  <div class="row">
-   <div style="text-indent: 1em;">
-    <div class="btn-group btn-group-justified">
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#esi_sub" data-target="#esi_citation" aria-expanded="false" aria-controls="esi_citation">Full Citation</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#esi_sub" data-target="#esi_abstract" aria-expanded="false" aria-controls="esi_abstract">Abstract</button>
-      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/hacker_et_al_2014.pdf');">Paper</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#esi_sub" data-target="#esi_press" aria-expanded="false" aria-controls="esi_press">Press</button>
-      </div>
-    </div>
+<br>
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/hacker_et_al_2014.pdf">The Economic Security Index: A New Measure for Research and Policy Analysis</a> The Review of Income and Wealth, 2014,</b> <i>with Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, and Robert G. Valletta</i></p>
+<div class="content">
+<div class="row">
+  <div class="col">
+    <p style="font-size:0.8em">The ESI assesses the individual-level occurrence of substantial year-to-year declines in available household resources, accounting for fluctuations not only in income but also in out-of-pocket medical expenses. It also assesses whether those experiencing such declines have sufficient liquid financial wealth to buffer against these shocks. We find that economic insecurity has risen steadily since the mid-1980s for virtually all sub-groups of Americans, though there is substantial disparity in the degree to which different subgroups are exposed to economic risk. We find that the degree and disparity by which insecurity has risen is robust across the best available data sources.</p>
   </div>
-  <div class="row" id="esi_sub">
-    <div id="esi_citation" class="collapse">
-      <p>Jacob S. Hacker, Gregory A. Huber, Austin Nichols, Philipp Rehm, Mark Schlesinger, Robert G. Valletta, and Stuart Craig. “<a href="https://stuartcraig.github.io/files/hacker_et_al_2014.pdf" target="_blank">The Economic Security Index: A New Measure for Research and Policy Analysis</a>,” The Review of Income and Wealth, July 2014, Vol 60, Issue S1: S5-S32.</p>
-    </div>
-    <div id="esi_abstract" class="collapse">
-      <p>This article presents the Economic Security Index (ESI), a new measure of economic insecurity. TheESI assesses the individual-level occurrence of substantial year-to-year declines in available householdresources, accounting for fluctuations not only in income but also in out-of-pocket medical expenses. Italso assesses whether those experiencing such declines have sufficient liquid financial wealth to bufferagainst these shocks. We find that insecurity—the share of individuals experiencing substantial resourcedeclines without adequate financial buffers—has risen steadily since the mid-1980s for virtually all sub-groups of Americans, albeit with cyclical fluctuation. At the same time, we find that there is substantialdisparity in the degree to which different subgroups are exposed to economic risk. As the ESI derivesfrom a data-independent conceptual foundation, it can be measured using different panel datasets. We findthat the degree and disparity by which insecurity has risen is robust across the best available sources.</p>
-   </div>
-  <div id="esi_press" class="collapse">
-    <ul>
-      <li><a href="http://economicsecurityindex.org/?p=press" target="_blank">Lots of links here</a></li>
-    </ul>
-  </div>
+  <div class="col">
+    <img src="https://stuartcraig.github.io/files/ESI_thumb.png">
   </div>
 </div>
-<br>
+<div class="row">
+    <p style="font-size:0.8em;margin-left=3em">Press: <a href="http://economicsecurityindex.org/?p=press" target="_blank">Lots of links here</a></p>
+  </div>
+</div>
 
 
-
-
-# Working Papers and Works in Progress
-
+<h1 align="center">Selected Works in Progress</h1>
 
 
 **Vertical Integration and Control: Evidence from Medical Technology**<br>
