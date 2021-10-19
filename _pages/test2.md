@@ -86,7 +86,6 @@ layout: single
 ## Health, Policy, Measurement
 
 <!--- Medicaid Expansion --->
-<br>
 <p style="font-style:0.9em"><b><a href="https://doi.org/10.1016/j.ajog.2020.08.007">Impact of Medicaid Expansion on Women with Gynecologic Cancer: a Difference-in-Difference Analysis</a> American Journal of Obstetrics and Gynecology, 2020,</b> <i>with Benjamin B. Albright, Dimitrios Nasioudis, Haley A. Moss, Nawar A. Latif, Emily M. Ko, and Ashley F. Haggerty</i></p>
 <div class="content">
 <div class="row">
@@ -139,39 +138,6 @@ layout: single
 </div>
 
 
-
-
-
-
-**Variation In Health Spending Growth For the Privately Insured From 2007 to 2014**<br>
-**Health Affairs, 2019**<br>
-_with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen_
-<div class="container-fluid">
-  <div class="row">
-   <div style="text-indent: 1em;">
-    <div class="btn-group btn-group-justified">
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#growthvar_sub" data-target="#growthvar_citation" aria-expanded="false" aria-controls="growthvar_citation">Full Citation</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#growthvar_sub" data-target="#growthvar_abstract" aria-expanded="false" aria-controls="growthvar_abstract">Abstract</button>
-      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/hlthaff.2018.05245.pdf');">Paper</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#growthvar_sub" data-target="#growthvar_press" aria-expanded="false" aria-controls="growthvar_press">Press</button>
-      </div>
-    </div>
-  </div>
-  <div class="row" id="growthvar_sub">
-    <div id="growthvar_citation" class="collapse">
-      <p>Zack Cooper, <b>Stuart V Craig</b>, Charles Gray, Martin Gaynor, and John Van Reenen. “<a href="https://stuartcraig.github.io/files/hlthaff.2018.05245" target="_blank">Variation In Health Spending For the Privately Insured From 2007 to 2014,</a>" Health Affairs, February 2019, 38(2): 230-236.</p>
-    </div>
-    <div id="growthvar_abstract" class="collapse">
-      <p>We examined the growth in health spending on people with employer-sponsored private insurance in the period 2007–14. Our analysis relied on information from the Health Care Cost Institute data set, which includes insurance claims from Aetna, Humana, and UnitedHealthcare. In the study period private health spending per enrollee grew 16.9 percent, while growth in Medicare spending per fee-for-service beneficiary decreased 1.2 percent. There was substantial variation in private spending growth rates across hospital referral regions (HRRs): Spending in HRRs in the tenth percentile of private spending growth grew at 0.22 percent per year, while HRRs in the ninetieth percentile experienced 3.45 percent growth per year. The correlation between the growth in HRR-level private health spending and growth in fee-for-service Medicare spending in the study period was only 0.211. The low correlation across HRRs suggests that different factors may be driving the growth in spending on the two populations.</p>
-   </div>
-  <div id="growthvar_press" class="collapse">
-    <ul>
-      <li> <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending" target="_blank">Modern Healthcare</a></li>
-    </ul>
-  </div>
-  </div>
-</div>
-<br>
 
 
 <!--- Physician/Facility Prices --->
