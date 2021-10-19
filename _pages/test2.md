@@ -55,7 +55,7 @@ layout: single
     <p style="font-size:0.8em">We estimate the effects of hospital mergers, using detailed data containing medical supply transactions (representing 23 percent of operating costs) from a sample of US hospitals 2009-2015. Pre-merger price variation across hospitals (Gini coefficient 7 percent) suggests significant opportunities for cost decreases. However, we observe limited evidence of actual savings. In this retrospective sample, targets realized 1.9 percent savings; acquirers realize no significant savings. Examining treatment effect heterogeneity to shed light on theories of "buyer power," we find that savings, when they occur, tend to be local, and potential benefits of savings may be offset by managerial costs of merging.</p>
   </div>
   <div class="col">
-    <img src="https://stuartcraig.github.io/files/CES_thumb.png">
+    <img src="https://stuartcraig.github.io/files/CGS_thumb.png">
   </div>
 </div>
 </div>
