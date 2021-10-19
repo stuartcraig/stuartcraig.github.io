@@ -16,7 +16,7 @@ layout: single
   <div class="row">
    <div style="text-indent: 1em;">
     <div class="btn-group btn-group-justified">
-      <button class="btn--small btn-primary collapsed" data-toggle="collapse" data-parent="#JMP_sub" data-target="#JMP_abstract" aria-expanded="false" aria-controls="JMP_abstract">Abstract</button>
+      <button class="btn-sm collapsed" data-toggle="collapse" data-parent="#JMP_sub" data-target="#JMP_abstract" aria-expanded="false" aria-controls="JMP_abstract">Abstract</button>
       </div>
     </div>
   </div>
@@ -33,7 +33,7 @@ layout: single
 ## Economics
 
 **How Important Is Price variation Between Health Insurers?**<br>
-**Accepted at Journal of Health Economics**<br>
+**Journal of Health Economics, 2021**<br>
 _with Keith Ericson, and Amanda Starc_
 <div class="container-fluid">
   <div class="row">
