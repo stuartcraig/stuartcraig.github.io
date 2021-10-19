@@ -30,10 +30,10 @@ layout: single
 
 ## Economics
 
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a> Journal of Health Economics, 2021,</b> <i>with Keith Ericson and Amanda Starc</i></p>
 <div class="content">
 <div class="row">
   <div class="col">
-    <p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a> Journal of Health Economics, 2021,</b> <i>with Keith Ericson and Amanda Starc</i></p>
     <p style="font-size:0.8em"> Prices negotiated between payers and providers affect a health insurance contract’s value via enrollees’ cost-sharing and self-insured employers’ costs. However, price variation across payers is difficult to observe. We measure negotiated prices for hospital-payer pairs in Massachusetts and characterize price variation. Between-payer price variation is similar in magnitude to between-hospital price variation. Administrative-services-only contracts, in which insurers do not bear risk, have higher prices. We model negotiation incentives and show that contractual form and demand responsiveness to negotiated prices are important determinants of negotiated prices.</p>
   </div>
   <div class="col">
