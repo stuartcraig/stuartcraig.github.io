@@ -34,15 +34,16 @@ layout: single
 **Journal of Health Economics, 2021**<br>
 _with Keith Ericson, and Amanda Starc_
 
+<div class="content">
 <div class="row">
   <div class="col">
     Some descriptive text
   </div>
   <div class="col">
-    <img src="stuartcraig.github.io/files/CES_thumb.png">
+    <img src="http://stuartcraig.github.io/files/CES_thumb.png">
   </div>
 </div>
-
+</div>
 
 
 <div class="container-fluid">
