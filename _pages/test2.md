@@ -43,7 +43,7 @@ layout: single
 
 <!--- Mergers and marginal costs --->
 <br>
-<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/mergers_margcosts_May2020.pdf">Mergers and Marginal Costs: New Evidence from Hospital Input Markets</a> RAND Journal of Economics, 2021,</b> <i>with Matthew Grennan and Ashley Swanson</i></p>
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/mergers_margcosts_May2020.pdf">Mergers and Marginal Costs: New Evidence from Hospital Input Markets,</a> RAND Journal of Economics, 2021,</b> <i>with Matthew Grennan and Ashley Swanson</i></p>
 <div class="content">
 <div class="row">
   <div class="col">
@@ -66,7 +66,7 @@ layout: single
 
 <!--- The Price Ain't Right --->
 <br>
-<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/qjy020.pdf">The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured</a> Quarterly Journal of Economics, 2019,</b> <i>with Zack Cooper, Martin Gaynor, and John Van Reenen</i></p>
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/qjy020.pdf">The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured,</a> Quarterly Journal of Economics, 2019,</b> <i>with Zack Cooper, Martin Gaynor, and John Van Reenen</i></p>
 <div class="content">
 <div class="row">
   <div class="col">
@@ -102,7 +102,7 @@ layout: single
 
 <!--- Spending Growth --->
 <br>
-<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/hlthaff.2018.05245.pdf">Variation In Health Spending Growth For the Privately Insured From 2007 to 2014</a> Health Affairs, 2019,</b> <i>with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen</i></p>
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/hlthaff.2018.05245.pdf">Variation In Health Spending Growth For the Privately Insured From 2007 to 2014,</a> Health Affairs, 2019,</b> <i>with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen</i></p>
 <div class="content">
 <div class="row">
   <div class="col">
@@ -123,7 +123,7 @@ layout: single
 
 <!--- Physician/Facility Prices --->
 <br>
-<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/hlthaff.2018.05424.pdf">Hospital Prices Grew Substantially Faster Than Physician Prices For Hospital-Based Care In 2007-2014</a> Health Affairs, 2019,</b> <i>with Zack Cooper, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen</i></p>
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/hlthaff.2018.05424.pdf">Hospital Prices Grew Substantially Faster Than Physician Prices For Hospital-Based Care In 2007-2014,</a> Health Affairs, 2019,</b> <i>with Zack Cooper, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen</i></p>
 <div class="content">
 <div class="row">
   <div class="col">
