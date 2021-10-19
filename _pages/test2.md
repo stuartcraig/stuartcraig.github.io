@@ -91,16 +91,13 @@ layout: single
 <div class="content">
 <div class="row">
   <div class="col">
-    <p style="font-size:0.8em">TKTK</p>
+    <p style="font-size:0.8em">Using data from the National Cancer Database, we study the impact of state-level policy to expand Medicaid on access to care for women with gynecologic cancer. Using a difference-in-difference approach, we find that states that expanded Medicaid reduced the rate of uninsurance at diagnosis by 2pp. Medicaid expansion also generated a 0.8pp increase in early stage diagnosis, a 1.62 pp increase in treatment within 30 days of diagnosis, and 1.54pp incrase in surgery within 30 days of diagnosis. We estimate particularly large gains for women living in low-income zip codes, Hispanic women, and women with cervical cancer</p>
   </div>
   <div class="col">
     <img src="https://stuartcraig.github.io/files/albrightetal_thumb.png">
   </div>
 </div>
 </div>
-
-
-
 
 
 <!--- 
