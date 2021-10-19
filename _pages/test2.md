@@ -39,7 +39,7 @@ _with Keith Ericson, and Amanda Starc_
     Some descriptive text
   </div>
   <div class="col">
-    <div class="files/CES_thumb.png"></div>
+    <img src="files/CES_thumb.png">
   </div>
 </div>
 
