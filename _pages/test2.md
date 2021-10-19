@@ -103,28 +103,7 @@ layout: single
 
 
 
-
-
-**Impact of Medicaid Expansion on Women with Gynecologic Cancer: a Difference-in-Difference Analysis**<br>
-**American Journal of Obstetrics and Gynecology, 2020**<br>
-_with Benjamin B. Albright, Dimitrios Nasioudis, Haley A. Moss, Nawar A. Latif, Emily M. Ko, and Ashley F. Haggerty_
-<div class="container-fluid">
-  <div class="row">
-   <div style="text-indent: 1em;">
-    <div class="btn-group btn-group-justified">
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#medicaidexp_sub" data-target="#medicaidexp_citation" aria-expanded="false" aria-controls="medicaidexp_citation">Full Citation</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#medicaidexp_sub" data-target="#medicaidexp_abstract" aria-expanded="false" aria-controls="medicaidexp_abstract">Abstract</button>
-      <button class="btn btn-primary" onclick="window.open('https://doi.org/10.1016/j.ajog.2020.08.007');">Paper</button>
-      </div>
-    </div>
-  </div>
-    
-  <div class="row" id="medicaidexp_sub">
-    <div id="medicaidexp_citation" class="collapse">
-      <p>[In Press]</p>
-      <p>Albright, Benjamin B., Dimitrios Nasioudis, Stuart Craig, Haley A. Moss, Nawar A. Latif, Emily M. Ko, and Ashley F. Haggerty. "Impact of Medicaid expansion on women with gynecologic cancer: a difference-in-difference analysis." American Journal of Obstetrics and Gynecology (2020).</p>
-    </div>
-    <div id="medicaidexp_abstract" class="collapse">
+<!--- 
       <p><b>Background</b></p>
       <p>Women with gynecologic cancer face socioeconomic disparities in care that affect survival outcomes. The Affordable Care Act offered states the option to expand Medicaid enrollment eligibility criteria as a means of improving timely and affordable access to care for the most vulnerable. The variable uptake of expansion by states created a natural experiment, allowing for quasi-experimental methods that offer more unbiased estimates of treatment effects from retrospective data than the traditional regression adjustment.</p>
       <p><b>Objective</b></p>
@@ -139,10 +118,31 @@ _with Benjamin B. Albright, Dimitrios Nasioudis, Haley A. Moss, Nawar A. Latif, 
   </div>
 </div>
 <br>
-
+--->
 
 
 <!--- Spending Growth --->
+<br>
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/hlthaff.2018.05245">Variation In Health Spending Growth For the Privately Insured From 2007 to 2014</a> Health Affairs, 2019,</b> <i>with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen</i></p>
+<div class="content">
+<div class="row">
+  <div class="col">
+    <p style="font-size:0.8em">TKTK</p>
+  </div>
+  <div class="col">
+    <img src="https://stuartcraig.github.io/files/spendinggrowth_thumb.png">
+  </div>
+</div>
+<div class="row">
+    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending" target="_blank">Modern Healthcare</a></p>
+  </div>
+</div>
+
+
+
+
+
+
 **Variation In Health Spending Growth For the Privately Insured From 2007 to 2014**<br>
 **Health Affairs, 2019**<br>
 _with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen_
@@ -159,7 +159,7 @@ _with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen_
   </div>
   <div class="row" id="growthvar_sub">
     <div id="growthvar_citation" class="collapse">
-      <p>Zack Cooper, <b>Stuart V Craig</b>, Charles Gray, Martin Gaynor, and John Van Reenen. “<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05245" target="_blank">Variation In Health Spending For the Privately Insured From 2007 to 2014,</a>" Health Affairs, February 2019, 38(2): 230-236.</p>
+      <p>Zack Cooper, <b>Stuart V Craig</b>, Charles Gray, Martin Gaynor, and John Van Reenen. “<a href="https://stuartcraig.github.io/files/hlthaff.2018.05245" target="_blank">Variation In Health Spending For the Privately Insured From 2007 to 2014,</a>" Health Affairs, February 2019, 38(2): 230-236.</p>
     </div>
     <div id="growthvar_abstract" class="collapse">
       <p>We examined the growth in health spending on people with employer-sponsored private insurance in the period 2007–14. Our analysis relied on information from the Health Care Cost Institute data set, which includes insurance claims from Aetna, Humana, and UnitedHealthcare. In the study period private health spending per enrollee grew 16.9 percent, while growth in Medicare spending per fee-for-service beneficiary decreased 1.2 percent. There was substantial variation in private spending growth rates across hospital referral regions (HRRs): Spending in HRRs in the tenth percentile of private spending growth grew at 0.22 percent per year, while HRRs in the ninetieth percentile experienced 3.45 percent growth per year. The correlation between the growth in HRR-level private health spending and growth in fee-for-service Medicare spending in the study period was only 0.211. The low correlation across HRRs suggests that different factors may be driving the growth in spending on the two populations.</p>
