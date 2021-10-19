@@ -26,12 +26,11 @@ layout: single
 </div>
 <br>
 
-<h1 align="center">Published and Accepted</h1>
+<h1 align="center">Published</h1>
 
 ## Economics
 
 <!--- Price Variation Between Payers --->
-<br>
 <p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a> Journal of Health Economics, 2021,</b> <i>with Keith Ericson and Amanda Starc</i></p>
 <div class="content">
 <div class="row">
@@ -46,13 +45,12 @@ layout: single
 
 
 <!--- Mergers and marginal costs --->
-
 <br>
 <p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/mergers_margcosts_May2020.pdf">Mergers and Marginal Costs: New Evidence from Hospital Input Markets</a> RAND Journal of Economics, 2021,</b> <i>with Matthew Grennan and Ashley Swanson</i></p>
 <div class="content">
 <div class="row">
   <div class="col">
-    <p style="font-size:0.8em">We estimate the effects of hospital mergers, using detailed data containing medical supply transactions (representing 23 percent of operating costs) from a sample of US hospitals 2009-2015. Pre-merger price variation across hospitals (Gini coefficient 7 percent) suggests significant opportunities for cost decreases. However, we observe limited evidence of actual savings. In this retrospective sample, targets realized 1.9 percent savings; acquirers realize no significant savings. Examining treatment effect heterogeneity to shed light on theories of "buyer power," we find that savings, when they occur, tend to be local, and potential benefits of savings may be offset by managerial costs of merging.</p>
+    <p style="font-size:0.8em">We estimate the effects of hospital mergers, using detailed data containing medical supply transactions (representing 23 percent of operating costs) from a sample of US hospitals 2009-2015. Pre-merger price variation across hospitals (Gini coefficient 7 percent) suggests significant opportunities for cost decreases. However, we observe limited evidence of actual savings. In this retrospective sample, targets realized 1.9 percent savings; acquirers realize no significant savings. Examining treatment effect heterogeneity to shed light on theories of "buyer power," we find that savings, when they occur, tend to be local, and potential benefits of savings may be offset by managerial costs of merging.<br>Press: <a href="https://www.nber.org/digest/oct18/w24926.shtml" target="_blank">NBER Digest</a>, <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers" target="_blank">Modern Healthcare</a><a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html" target="_blank">Axios</a><a href="https://www.advisory.com/blog/2019/01/hype-mergers" target="_blank">Advisory Board</a></p>
   </div>
   <div class="col">
     <img src="https://stuartcraig.github.io/files/CGS_thumb.png">
