@@ -176,14 +176,16 @@ layout: single
 </div>
 
 <br>
-<h1 align="center">Selected Works in Progress</h1>
+<h1 align="center">Works in Progress</h1>
 
 
 <p style="font-style:0.9em"><b>Vertical Integration and Control: Evidence from Medical Technology,</b> <i>with Matt Grennan, Joseph Martinez, and Ashley Swanson</i></p>
 
+<p style="font-style:0.9em"><b>The Impact of Rising Health Care Costs on People, Places, and Firms,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, and Ithai Lurie</i></p>
 
-<p style="font-style:0.9em"><b>Who Pays for Rent-Seeking in Health Care? The Effect of Hospital Mergers on Local Labor Markets,</b> <i>with Zarek Brot-Goldberg and Zack Cooper</i></p>
+<p style="font-style:0.9em"><b>Comparing Ex Ante and Ex Post Evaluation Approaches; Evidence from Horizontal Hospital Mergers,</b> <i>with Zarek Brot-Goldberg and Zack Cooper</i></p>
 
+<p style="font-style:0.9em"><b>Decomposing the Effects of Vertical Integration on Health Care Spending,</b> <i>with Zack Cooper, Matthew Grennan, Joseph Martinez, Fiona Scott Morton, and Ashley Swanson</i></p>
 
-
+<p style="font-style:0.9em"><b>Health Care Spending Effects of Patients, Providers, and Places: Evidence from the Military Health System,</b> <i>with Amy Bond and Steve Schwab</i></p>
 
