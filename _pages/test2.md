@@ -21,7 +21,8 @@ layout: single
 </div>
 
 
-<h1 align="center">Published</h1>
+<br>
+<h1 align="center">Published Papers</h1>
 
 ## Economics
 
