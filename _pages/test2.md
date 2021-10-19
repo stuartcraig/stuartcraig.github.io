@@ -9,7 +9,7 @@ layout: single
  
 
 <!--- Job Market Paper --->
--> # Job Market Paper <-
+# ->Job Market Paper<-
 
 **Competition in Employer Sponsored Health Insurance: Implications for a Public Option**
 <div class="container-fluid">
