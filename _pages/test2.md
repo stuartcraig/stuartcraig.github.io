@@ -87,35 +87,17 @@ layout: single
 ## Health, Policy, Measurement
 
 <!--- Medicaid Expansion --->
-<p style="font-style:0.9em"><b><a href="https://doi.org/10.1016/j.ajog.2020.08.007">Impact of Medicaid Expansion on Women with Gynecologic Cancer: a Difference-in-Difference Analysis</a> American Journal of Obstetrics and Gynecology, 2020,</b> <i>with Benjamin B. Albright, Dimitrios Nasioudis, Haley A. Moss, Nawar A. Latif, Emily M. Ko, and Ashley F. Haggerty</i></p>
+<p style="font-style:0.9em"><b><a href="https://doi.org/10.1016/j.ajog.2020.08.007">Impact of Medicaid Expansion on Women with Gynecologic Cancer: a Difference-in-Difference Analysis,</a> American Journal of Obstetrics and Gynecology, 2020,</b> <i>with Benjamin B. Albright, Dimitrios Nasioudis, Haley A. Moss, Nawar A. Latif, Emily M. Ko, and Ashley F. Haggerty</i></p>
 <div class="content">
 <div class="row">
   <div class="col">
-    <p style="font-size:0.8em">Using data from the National Cancer Database, we study the impact of state-level policy to expand Medicaid on access to care for women with gynecologic cancer. Using a difference-in-difference approach, we find that states that expanded Medicaid reduced the rate of uninsurance at diagnosis by 2pp. Medicaid expansion also generated a 0.8pp increase in early stage diagnosis, a 1.62 pp increase in treatment within 30 days of diagnosis, and 1.54pp incrase in surgery within 30 days of diagnosis. We estimate particularly large gains for women living in low-income zip codes, Hispanic women, and women with cervical cancer</p>
+    <p style="font-size:0.8em">Using data from the National Cancer Database, we study the impact of state-level policy to expand Medicaid on access to care for women with gynecologic cancer. Using a difference-in-difference approach, we find that states that expanded Medicaid reduced the rate of uninsurance at diagnosis by 2pp. Medicaid expansion also generated a 0.8pp increase in early stage diagnosis, a 1.62 pp increase in treatment within 30 days of diagnosis, and 1.54pp incrase in surgery within 30 days of diagnosis. We estimate particularly large gains for women living in low-income zip codes, Hispanic women, and women with cervical cancer.</p>
   </div>
   <div class="col">
     <img src="https://stuartcraig.github.io/files/albrightetal_thumb.png">
   </div>
 </div>
 </div>
-
-
-<!--- 
-      <p><b>Background</b></p>
-      <p>Women with gynecologic cancer face socioeconomic disparities in care that affect survival outcomes. The Affordable Care Act offered states the option to expand Medicaid enrollment eligibility criteria as a means of improving timely and affordable access to care for the most vulnerable. The variable uptake of expansion by states created a natural experiment, allowing for quasi-experimental methods that offer more unbiased estimates of treatment effects from retrospective data than the traditional regression adjustment.</p>
-      <p><b>Objective</b></p>
-      <p>To use a quasi-experimental, difference-in-difference framework to create unbiased estimates of impact of Medicaid expansion on women with gynecologic cancer.</p>
-      <p><b>Study Design</b></p>
-      <p>We performed a quasi-experimental retrospective cohort study from the National Cancer Database files for women with invasive cancers of the uterus, ovary and fallopian tube, cervix, vagina, and vulva diagnosed from 2008 to 2016. Using a marker for state Medicaid expansion status, we created difference-in-difference models to assess the impact of Medicaid expansion on the outcomes of access to and timeliness of care. We excluded women aged <40 years owing to the suppression of the state Medicaid expansions status in the data and women aged ≥65 years owing to the universal Medicare coverage availability. Our primary outcome was the rate of uninsurance at diagnosis. Secondary outcomes included Medicaid coverage, early-stage diagnosis, treatment at an academic facility, and any treatment or surgery within 30 days of diagnosis. Models were run within multiple subgroups and on a propensity-matched cohort to assess the robustness of the treatment estimates. The assumption of parallel trends was assessed with event study time plots.</p>
-      <p><b>Results</b></p>
-      <p>Our sample included 335,063 women. Among this cohort, 121,449 were from nonexpansion states and 213,614 were from expansion states, with 79,886 posttreatment cases diagnosed after the expansion took full effect in expansion states. The groups had minor differences in demographics, and we found occasional preperiod event study coefficients diverging from the mean, but the outcome trends were generally similar between the expansion and nonexpansion states in the preperiod, satisfying the necessary assumption for the difference-in-difference analysis. In a basic difference-in-difference model, the Medicaid expansion in January 2014 was associated with significant increases in insurance at diagnosis, treatment at an academic facility, and treatment within 30 days of diagnosis (P<.001 for all). In an adjusted model including all states and accounting for variable expansion implementation time, there was a significant treatment effect of Medicaid expansion on the reduction in uninsurance at diagnosis (−2.00%; 95% confidence interval, −2.3 to −1.7; P<.001), increases in early-stage diagnosis (0.80%; 95% confidence interval, 0.2–1.4; P=.02), treatment at an academic facility (0.83%; 95% confidence interval, 0.1–1.5; P=.02), treatment within 30 days (1.62%; 95% confidence interval, 1.0–2.3; P<.001), and surgery within 30 days (1.54%; 95% confidence interval, 0.8–2.3; P<.001). In particular, large gains were estimated for women living in low-income zip codes, Hispanic women, and women with cervical cancer. Estimates from the subgroup and propensity-matched cohorts were generally consistent for all outcomes besides early-stage diagnosis and treatment within 30 days.</p>
-      <p><b>Conclusion</b></p>
-      <p>Medicaid expansion was significantly associated with gains in the access and timeliness of treatment for nonelderly women with gynecologic cancer. The implementation of Medicaid expansion could greatly benefit women in nonexpansion states. Gynecologists and gynecologic oncologists should advocate for Medicaid expansion as a means of improving outcomes and reducing socioeconomic and racial disparities.</p>
-   </div>
-  </div>
-</div>
-<br>
---->
 
 
 <!--- Spending Growth --->
