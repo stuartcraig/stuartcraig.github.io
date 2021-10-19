@@ -51,48 +51,41 @@ layout: single
 <div class="row">
   <div class="col">
     <p style="font-size:0.8em">We estimate the effects of hospital mergers, using detailed data containing medical supply transactions (representing 23 percent of operating costs) from a sample of US hospitals 2009-2015. Pre-merger price variation across hospitals (Gini coefficient 7 percent) suggests significant opportunities for cost decreases. However, we observe limited evidence of actual savings. In this retrospective sample, targets realized 1.9 percent savings; acquirers realize no significant savings. Examining treatment effect heterogeneity to shed light on theories of "buyer power," we find that savings, when they occur, tend to be local, and potential benefits of savings may be offset by managerial costs of merging.</p>
-    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.nber.org/digest/oct18/w24926.shtml" target="_blank">NBER Digest</a>, <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers" target="_blank">Modern Healthcare</a>, <a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html" target="_blank">Axios</a>, <a href="https://www.advisory.com/blog/2019/01/hype-mergers" target="_blank">Advisory Board</a></p>
   </div>
   <div class="col">
     <img src="https://stuartcraig.github.io/files/CGS_thumb.png">
   </div>
 </div>
-</div>
-
-
-
-
-**Mergers and Marginal Costs: New Evidence from Hospital Input Markets**<br>
-**Accepted at Rand Journal of Economics**<br>
-_with Matthew Grennan and Ashley Swanson_
-<div class="container-fluid">
-  <div class="row">
-   <div style="text-indent: 1em;">
-    <div class="btn-group btn-group-justified">
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#mergmargcost_sub" data-target="#mergmargcost_abstract" aria-expanded="false" aria-controls="mergmargcost_abstract">Abstract</button>
-      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/mergers_margcosts_May2020.pdf');">Paper</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#mergmargcost_sub" data-target="#mergmargcost_press" aria-expanded="false" aria-controls="mergmargcost_press">Press</button>
-      </div>
-    </div>
-  </div>
-    
-  <div class="row" id="mergmargcost_sub">
-    <div id="mergmargcost_abstract" class="collapse">
-      <p>We estimate the effects of hospital mergers, using detailed data containing medical supply transactions (representing 23 percent of operating costs) from a sample of US hospitals 2009-2015. Pre-merger price variation across hospitals (Gini coefficient 7 percent) suggests significant opportunities for cost decreases. However, we observe limited evidence of actual savings. In this retrospective sample, targets realized 1.9 percent savings; acquirers realize no significant savings. Examining treatment effect heterogeneity to shed light on theories of "buyer power," we find that savings, when they occur, tend to be local, and potential benefits of savings may be offset by managerial costs of merging.</p>
-   </div>
-  <div id="mergmargcost_press" class="collapse">
-    <ul>
-      <li><a href="https://www.nber.org/digest/oct18/w24926.shtml" target="_blank">NBER Digest</a></li>
-      <li><a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers" target="_blank">Modern Healthcare</a></li>
-      <li><a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html" target="_blank">Axios</a></li>
-      <li><a href="https://www.advisory.com/blog/2019/01/hype-mergers" target="_blank">Advisory Board</a></li>      
-    </ul>
-  </div>
+<div class="row">
+    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.nber.org/digest/oct18/w24926.shtml" target="_blank">NBER Digest</a>, <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers" target="_blank">Modern Healthcare</a>, <a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html" target="_blank">Axios</a>, <a href="https://www.advisory.com/blog/2019/01/hype-mergers" target="_blank">Advisory Board</a></p>
   </div>
 </div>
-<br>
+
+
+
+
 
 <!--- The Price Ain't Right --->
+<br>
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/mergers_margcosts_May2020.pdf">The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured</a> Quarterly Journal of Economics, 2019,</b> <i>with Zack Cooper, Martin Gaynor, and John Van Reenen</i></p>
+<div class="content">
+<div class="row">
+  <div class="col">
+    <p style="font-size:0.8em">We use insurance claims data for 27.6 percent of individuals with private employer-sponsored insurance in the US between 2007 and 2011 to examine the variation in health spending and in hospitals’ transaction prices. We document the variation in hospital prices within and across geographic areas, examine how hospital prices influence the variation in health spending on the privately insured, and analyze the factors associated with hospital price variation. Four key findings emerge. First, health care spending per privately insured beneficiary varies by a factor of three across the 306 Hospital Referral Regions (HRRs) in the US. Moreover, the correlation between total spending per privately insured beneficiary and total spending per Medicare beneficiary across HRRs is only 0.14. Second, variation in providers’ transaction prices across HRRs is the primary driver of spending variation for the privately insured, whereas variation in the quantity of care provided across HRRs is the primary driver of Medicare spending variation. Consequently, extrapolating lessons on health spending from Medicare to the privately insured must be done with caution. Third, we document large dispersion in overall inpatient hospital prices and in prices for seven relatively homogenous procedures. For example, hospital prices for lower-limb MRIs vary by a factor of twelve across the nation and, on average, two-fold within HRRs. Finally, hospital prices are positively associated with indicators of hospital market power. Even after conditioning on many demand and cost factors, hospital prices in monopoly markets are 15.3 percent higher than those in markets with four or more hospitals.</p>
+  </div>
+  <div class="col">
+    <img src="https://stuartcraig.github.io/files/priceaintright_thumb.png">
+  </div>
+</div>
+<div class="row">
+    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html" target="_blank">NYT</a>, <a href="https://www.wsj.com/articles/what-does-knee-surgery-cost-few-know-and-thats-a-problem-1534865358" target="_blank">WSJ</a>, <a href="https://www.newyorker.com/news/news-desk/health-cares-cost-conundrum-squared" target="_blank">New Yorker</a>, <a href="https://www.marketplace.org/2015/12/14/health-care/unprecedented-look-medical-costs-nationwide/" target="_blank">NPR Marketplace</a>, <a href="https://www.vox.com/policy-and-politics/2018/5/9/17337134/health-care-costs-hospital-rates-insurance" target="_blank">Vox</a>, <a href="https://healthcarepricingproject.org/news" target="_blank">More links here</a></p>
+  </div>
+</div>
+
+
+
+
+
 **The Price Ain’t Right? Hospital Prices and Health Spending on the Privately Insured**<br>
 **Quarterly Journal of Economics, 2019**<br>
 _with Zack Cooper, Martin Gaynor, and John Van Reenen_
