@@ -8,23 +8,18 @@ layout: single
 {% seo %}
 
 <!--- Job Market Paper --->
-
-**JOB MARKET PAPER: Competition in Employer Sponsored Health Insurance: Implications for a Public Option**
-<div class="container-fluid">
-  <div class="row">
-   <div style="text-indent: 1em;">
-    <div class="btn-group btn-group-justified">
-      <button class="btn btn-primary btn-sm collapsed" data-toggle="collapse" data-parent="#JMP_sub" data-target="#JMP_abstract" aria-expanded="false" aria-controls="JMP_abstract">Abstract</button>
-      </div>
-    </div>
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/CraigJMP_ESHI.pdf">Competition in Employer Sponsored Health Insurance: Implications for a Public Option (JMP)</a></p>
+<div class="content">
+<div class="row">
+  <div class="col">
+    <p style="font-size:0.8em"> I explore the conditions under which a government insurance plan, or “public option,” generates additional premium competition in the insurance market. Using unique data on employer-insurer contracting I document evidence of large switching costs and variation in expected costs across employers. Insurers respond to switching costs by setting low premiums for new employers and raising them for those who are locked-in. I estimate a model of supply and demand to characterize employer preferences and insurer pricing behavior. I then use the model to test the impact of various design features of a public option. Naturally, the public option is most attractive when it has higher quality and lower cost. I show that uniform premium setting (i.e. community rating) substantially limits the public option’s ability to compete with private insurers who set employer-specific premiums. A public option that offers experience rated premiums and discounts to new employers is substantially more attractive and therefore has a larger impact on premium competition. A community rated public option that aggressively regulates prices for health care services obtains substantial market share, but is less effective at generating competition among existing insurers.</p>
   </div>
-  <div class="row" id="JMP_sub">
-    <div id="JMP_abstract" class="collapse">
-      <p>156 million Americans obtain health insurance through an employer. High premiums and concerns about access have led to proposals to introduce a "public option," where the government would provide a public insurance plan to compete with private insurers. In the absence of an existing public option to study, I combine data on employer-insurer contracting and a structural model of supply and demand to predict market outcomes under various assumptions about the design such a policy. The model incorporates variation in employers' demand for health care, preferences over insurers, and the degree to which employers find it costly to switch between insurers. Insurers set employer-specific premiums allowing them to price discriminate. I find that insurers' ability to price discriminate substantially limits demand for the public option that cannot. More employers abandon the private market when the public option successfully replicates the quality of existing insurers and more aggressively regulates payments to health care providers. However, even a public option that obtains substantial market share does little to lower markups because employers who remain privately insured strongly prefer their private insurer, have large switching costs, and receive risk-rated premium offers that dominate the premiums of the public option.</p>
-   </div>
+  <div class="col">
+    <img src="https://stuartcraig.github.io/files/jmp_thumb.png">
   </div>
 </div>
-<br>
+</div>
+
 
 <h1 align="center">Published</h1>
 
