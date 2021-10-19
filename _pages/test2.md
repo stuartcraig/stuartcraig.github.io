@@ -122,11 +122,11 @@ layout: single
 
 <!--- Spending Growth --->
 <br>
-<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/hlthaff.2018.05245">Variation In Health Spending Growth For the Privately Insured From 2007 to 2014</a> Health Affairs, 2019,</b> <i>with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen</i></p>
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/hlthaff.2018.05245.pdf">Variation In Health Spending Growth For the Privately Insured From 2007 to 2014</a> Health Affairs, 2019,</b> <i>with Zack Cooper, Charles Gray, Martin Gaynor, and John Van Reenen</i></p>
 <div class="content">
 <div class="row">
   <div class="col">
-    <p style="font-size:0.8em">TKTK</p>
+    <p style="font-size:0.8em">We examined the growth in health spending on people with employer-sponsored private insurance in the period 2007–14. Our analysis relied on information from the Health Care Cost Institute data set, which includes insurance claims from Aetna, Humana, and UnitedHealthcare. In the study period private health spending per enrollee grew 16.9 percent, while growth in Medicare spending per fee-for-service beneficiary decreased 1.2 percent. There was substantial variation in private spending growth rates across hospital referral regions (HRRs): Spending in HRRs in the tenth percentile of private spending growth grew at 0.22 percent per year, while HRRs in the ninetieth percentile experienced 3.45 percent growth per year. The correlation between the growth in HRR-level private health spending and growth in fee-for-service Medicare spending in the study period was only 0.211. The low correlation across HRRs suggests that different factors may be driving the growth in spending on the two populations.</p>
   </div>
   <div class="col">
     <img src="https://stuartcraig.github.io/files/spendinggrowth_thumb.png">
@@ -139,44 +139,22 @@ layout: single
 
 
 
-
 <!--- Physician/Facility Prices --->
-**Hospital Prices Grew Substantially Faster Than Physician Prices For Hospital-Based Care In 2007-2014**<br>
-**Health Affairs, 2019**<br>
-_with Zack Cooper, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen_
-<div class="container-fluid">
-  <div class="row">
-   <div style="text-indent: 1em;">
-    <div class="btn-group btn-group-justified">
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#phyfac_sub" data-target="#phyfac_citation" aria-expanded="false" aria-controls="phyfac_citation">Full Citation</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#phyfac_sub" data-target="#phyfac_abstract" aria-expanded="false" aria-controls="phyfac_abstract">Abstract</button>
-      <button class="btn btn-primary" onclick="window.open('https://stuartcraig.github.io/files/hlthaff.2018.05424.pdf');">Paper</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#phyfac_sub" data-target="#phyfac_press" aria-expanded="false" aria-controls="phyfac_press">Press</button>
-      <button class="btn btn-primary collapsed" data-toggle="collapse" data-parent="#phyfac_sub" data-target="#phyfac_awards" aria-expanded="false" aria-controls="phyfac_awards">Honors</button>
-      </div>
-    </div>
+<br>
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/hlthaff.2018.05424.pdf">Hospital Prices Grew Substantially Faster Than Physician Prices For Hospital-Based Care In 2007-2014</a> Health Affairs, 2019,</b> <i>with Zack Cooper, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen</i></p>
+<div class="content">
+<div class="row">
+  <div class="col">
+    <p style="font-size:0.8em">Evidence suggests that growth in providers’ prices drives growth in health care spending on the privately insured. However, existing work has not systematically differentiated between the growth rate of hospital prices and that of physician prices. We analyzed growth in both types of prices for inpatient and hospital-based outpatient services using actual negotiated prices paid by insurers.We found that in the period 2007–14 hospital prices grew substantially faster than physician prices. For inpatient care, hospital prices grew 42 percent, while physician prices grew 18 percent. Similarly, for hospital-based outpatient care, hospital prices grew 25 percent, while physician prices grew 6 percent. A majority of the growth in payments for inpatient and hospital-based outpatient care was driven by growth in hospital prices, not physician prices. Our work suggests that efforts to reduce health care spending should be primarily focused on addressing growth in hospital rather than physician prices. Policy makers should consider a range of options to address hospital price growth, including antitrust enforcement, administered pricing, the use of reference pricing, and incentivizing referring physicians to make more cost-efficient referrals.</p>
   </div>
-    
-  <div class="row" id="phyfac_sub">
-    <div id="phyfac_citation" class="collapse">
-      <p>Zack Cooper, <b>Stuart V Craig</b>, Martin Gaynor, Nir J. Harish, Harlan M. Krumholz, and John Van Reenen. "<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05424" target="_blank">Hospital Prices Grew Substantiall Faster Than Physician Prices For Hospital-Based Care In 2007-2014</a>," Health Affairs, February 2019, 38(2): 184-189.</p>
-    </div>
-    <div id="phyfac_abstract" class="collapse">
-      <p>Evidence suggests that growth in providers’ prices drives growth in health care spending on the privately insured. However, existing work has not systematically differentiated between the growth rate of hospital prices and that of physician prices. We analyzed growth in both types of prices for inpatient and hospital-based outpatient services using actual negotiated prices paid by insurers.We found that in the period 2007–14 hospital prices grew substantially faster than physician prices. For inpatient care, hospital prices grew 42 percent, while physician prices grew 18 percent. Similarly, for hospital-based outpatient care, hospital prices grew 25 percent, while physician prices grew 6 percent. A majority of the growth in payments for inpatient and hospital-based outpatient care was driven by growth in hospital prices, not physician prices. Our work suggests that efforts to reduce health care spending should be primarily focused on addressing growth in hospital rather than physician prices. Policy makers should consider a range of options to address hospital price growth, including antitrust enforcement, administered pricing, the use of reference pricing, and incentivizing referring physicians to make more cost-efficient referrals.</p>
-   </div>
-  <div id="phyfac_press" class="collapse">
-    <ul>
-      <li> <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending" target="_blank">Modern Healthcare</a></li>
-    </ul>
-  </div>
-  <div id="phyfac_awards" class="collapse">
-    <ul>
-      <li> <a href="https://www.healthaffairs.org/do/10.1377/hblog20191227.167140/full/" target="_blank">Health Affairs' Top 10 Most-Read Articles of 2019</a></li>
-    </ul>
-  </div>
+  <div class="col">
+    <img src="https://stuartcraig.github.io/files/hosphygrowth_thumb.png">
   </div>
 </div>
-<br>
+<div class="row">
+    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.modernhealthcare.com/article/20190204/NEWS/190209984/hospital-price-growth-driving-healthcare-spending" target="_blank">Modern Healthcare</a></p>
+  </div>
+</div>
 
 
 <!--- ESI --->
