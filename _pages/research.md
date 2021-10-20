@@ -162,7 +162,7 @@ layout: single
 </div>
 
 <br>
-<h1 align="center">Works in Progress</h1>
+<h1 align="center">Selected Works in Progress</h1>
 
 
 <p style="font-style:0.9em"><b>Vertical Integration and Control: Evidence from Medical Technology,</b> <i>with Matt Grennan, Joseph Martinez, and Ashley Swanson</i></p>
