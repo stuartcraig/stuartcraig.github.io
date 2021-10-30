@@ -38,6 +38,12 @@ layout: single
     <img src="https://stuartcraig.github.io/files/CES_thumb.png">
   </div>
 </div>
+<div class="row">
+<div class="col">
+    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.wsj.com/articles/hospital-prices-arbitrary-healthcare-medical-bills-insurance-11635428943" target="_blank">WSJ</a></p>
+</div>
+</div>
+
 </div>
 
 
