@@ -9,6 +9,9 @@ layout: single
 
 <!--- Job Market Paper --->
 <h1 align="center">Working Papers and Selected Works in Progress</h1>
+
+<br>
+
 <p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/CraigJMP_ESHI.pdf">Competition in Employer Sponsored Health Insurance: Implications for a Public Option</a></b></p>
 <div class="content">
 <div class="row">
