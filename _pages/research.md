@@ -8,7 +8,7 @@ layout: single
 {% seo %}
 
 <!--- Job Market Paper --->
-<h1 align="center">Job Market Paper</h1>
+<h1 align="center">Working Papers and Selected Works in Progress</h1>
 <p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/CraigJMP_ESHI.pdf">Competition in Employer Sponsored Health Insurance: Implications for a Public Option</a></b></p>
 <div class="content">
 <div class="row">
@@ -20,6 +20,17 @@ layout: single
   </div>
 </div>
 </div>
+
+<br>
+
+<p style="font-style:0.9em"><b>Who Bears the Burden of Rising Health Care Spending in the US? Evidence from Hospital Mergers,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, Lev Klarnet and Ithai Lurie</i></p>
+
+<p style="font-style:0.9em"><b>Is There Too Little Antitrust Enforcement in the US Hospital Sector?,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, and Lev Klarnet</i></p>
+
+<p style="font-style:0.9em"><b>Are Hospital Acquisitions of Physician Practices Anticompetitive?,</b> <i>with Zack Cooper, Matthew Grennan, Joseph Martinez, Fiona Scott Morton, and Ashley Swanson</i></p>
+
+<p style="font-style:0.9em"><b>Health Care Spending Effects of Patients, Providers, and Places: Evidence from the Military Health System,</b> <i>with Amy Bond and Steve Schwab</i></p>
+
 
 
 <br>
@@ -167,17 +178,4 @@ layout: single
   </div>
 </div>
 
-<br>
-<h1 align="center">Selected Works in Progress</h1>
-
-
-<p style="font-style:0.9em"><b>Vertical Integration and Control: Evidence from Medical Technology,</b> <i>with Matt Grennan, Joseph Martinez, and Ashley Swanson</i></p>
-
-<p style="font-style:0.9em"><b>The Impact of Rising Health Care Costs on People, Places, and Firms,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, and Ithai Lurie</i></p>
-
-<p style="font-style:0.9em"><b>Comparing Ex Ante and Ex Post Evaluation Approaches; Evidence from Horizontal Hospital Mergers,</b> <i>with Zarek Brot-Goldberg and Zack Cooper</i></p>
-
-<p style="font-style:0.9em"><b>Decomposing the Effects of Vertical Integration on Health Care Spending,</b> <i>with Zack Cooper, Matthew Grennan, Joseph Martinez, Fiona Scott Morton, and Ashley Swanson</i></p>
-
-<p style="font-style:0.9em"><b>Health Care Spending Effects of Patients, Providers, and Places: Evidence from the Military Health System,</b> <i>with Amy Bond and Steve Schwab</i></p>
 
