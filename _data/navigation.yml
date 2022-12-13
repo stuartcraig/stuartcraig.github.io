@@ -15,8 +15,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-  - title: "Job Market Paper"
-    url: https://stuartcraig.github.io/files/CraigJMP_ESHI.pdf
+#  - title: "Job Market Paper"
+#    url: https://stuartcraig.github.io/files/CraigJMP_ESHI.pdf
 
   - title: "Research"
     url: /research/
