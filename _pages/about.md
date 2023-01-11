@@ -10,4 +10,4 @@ redirect_from:
 
 {% seo %}
 
-I am currently a Postdoctoral Associate at Yale University's Tobin Center for Economic Policy. My research focuses primarily on competition and price setting in business-to-business health care markets. My <a href="https://stuartcraig.github.io/files/CraigJMP_ESHI.pdf">job market paper</a> studies the conditions under which a public option would increase competition in the market for employer-sponsored health insurance. I completed my PhD at the Wharton School, University of Pennsylvania (2021).
+I am currently a Postdoctoral Associate at Yale University's Tobin Center for Economic Policy. My research focuses primarily on the causes and consequences of rising health care spending in the US, with a focus on competition and price setting in business-to-business health care markets. I completed my PhD at the Wharton School, University of Pennsylvania (2021).
