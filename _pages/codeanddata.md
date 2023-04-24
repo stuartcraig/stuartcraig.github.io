@@ -13,7 +13,7 @@ author_profile: true
 <summary>FAQs</summary>
 <br>
 <p style="font-size:0.8em">Coming soon....
-
+<br>
 - How do I identify ownership transitions in the data? 
 - What is a ''parent ID?''
 
