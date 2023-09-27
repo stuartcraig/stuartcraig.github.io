@@ -24,9 +24,9 @@ layout: single
 </div>
 </div>
 
-<p style="font-style:0.9em"><b>Who Bears the Burden of Rising Health Care Spending in the US? Evidence from Hospital Mergers,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, Lev Klarnet and Ithai Lurie</i></p>
+<p style="font-style:0.9em"><b>Is There Too Little Antitrust Enforcement in the US Hospital Sector?,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, and Lev Klarnet</i>, conditionally accepted at AER Insights</p>
 
-<p style="font-style:0.9em"><b>Is There Too Little Antitrust Enforcement in the US Hospital Sector?,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, and Lev Klarnet</i></p>
+<p style="font-style:0.9em"><b>Who Bears the Burden of Rising Health Care Spending in the US? Evidence from Hospital Mergers,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, Lev Klarnet and Ithai Lurie</i></p>
 
 <p style="font-style:0.9em"><b>Are Hospital Acquisitions of Physician Practices Anticompetitive?,</b> <i>with Zack Cooper, Matthew Grennan, Joseph Martinez, Fiona Scott Morton, and Ashley Swanson</i></p>
 
