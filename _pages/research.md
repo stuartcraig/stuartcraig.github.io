@@ -75,7 +75,7 @@ layout: single
 </div>
 <div class="row">
   <div class="col">
-    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.nber.org/digest/oct18/w24926.shtml" target="_blank">NBER Digest</a>, <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers" target="_blank">Modern Healthcare</a>, <a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html" target="_blank">Axios</a>, <a href="https://www.advisory.com/blog/2019/01/hype-mergers" target="_blank">Advisory Board</a>, <a href="https://dailycaller.com/2018/08/21/hospital-merger-buyout/">Daily Caller</a><a href="https://www.healthcaredive.com/news/massachusetts-officials-attach-stiff-conditions-to-beth-israel-lahey-merger/539515/">Healthcare Dive</a></p>
+    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.nber.org/digest/oct18/w24926.shtml" target="_blank">NBER Digest</a>, <a href="https://www.modernhealthcare.com/operations/american-hospital-association-economists-debate-merits-mergers" target="_blank">Modern Healthcare</a>, <a href="https://www.axios.com/reality-check-on-hospital-mergers-aha-economists-91007ae4-6776-4f33-9c61-db41c945482a.html" target="_blank">Axios</a>, <a href="https://www.advisory.com/blog/2019/01/hype-mergers" target="_blank">Advisory Board</a>, <a href="https://dailycaller.com/2018/08/21/hospital-merger-buyout/">Daily Caller</a>, <a href="https://www.healthcaredive.com/news/massachusetts-officials-attach-stiff-conditions-to-beth-israel-lahey-merger/539515/">Healthcare Dive</a></p>
   </div>
   </div>
 </div>
