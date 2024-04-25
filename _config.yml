@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stuart Craig"
+title                    : "Stuart V. Craig"
 title_separator          : "-"
-name                     : &name "Stuart Craig"
+name                     : &name "Stuart V. Craig"
 description              : &description "Assistant Professor, Wisconsin School of Business"
 url                      : https://stuartcraig.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
