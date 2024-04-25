@@ -42,6 +42,7 @@ layout: single
 <div class="content">
 <div class="row">
   <div class="col">
+    <p style="font-size:0.8em;margin-left=3em">Final pre-print: <a href="https://stuartcraig.github.io/files/BGCCK_mergerhet.pdf" target="_blank">April, 2024</a></p>
     <p style="font-size:0.8em"> From 2002 to 2020, there were over 1,000 mergers of US hospitals. During this period, the Federal Trade Commission (FTC) took enforcement actions against 13 transactions. However, using the FTC’s standard screening tools, we find that 20% of these mergers could have been predicted to meaningfully lessen competition. We then show that, from 2010 to 2015, predictably anticompetitive mergers resulted in price increases over 5%. We estimate that approximately half of predictably anticompetitive mergers had to be reported to the FTC per the Hart-Scott-Rodino Act. We conclude that there appears to be underenforcement of antitrust laws in the hospital sector.</p>
   </div>
   <div class="col">
@@ -50,7 +51,6 @@ layout: single
 </div>
 <div class="row">
 <div class="col">
-    <p style="font-size:0.8em;margin-left=3em">Final pre-print: <a href="https://stuartcraig.github.io/files/BGCCK_mergerhet.pdf" target="_blank">April, 2024</a></p>
     <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.wsj.com/health/healthcare/the-true-cost-of-megamergers-in-healthcare-higher-prices-5c58e8db?st=vw8ccylhyowkfk9" target="_blank">WSJ</a>, <a href="https://www.axios.com/2024/04/24/hospital-antitrust-enforcement" target="_blank">Axios</a>, <a href="https://www.statnews.com/2024/04/24/ftc-antitrust-hospital-mergers/" target="_blank">Stat</a></p>
 </div>
 </div>
