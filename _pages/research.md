@@ -59,6 +59,7 @@ layout: single
 
 
 <!--- Price Variation Between Payers --->
+<br>
 <p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a> Journal of Health Economics, 2021,</b> <i>with Keith Ericson and Amanda Starc</i></p>
 <div class="content">
 <div class="row">
