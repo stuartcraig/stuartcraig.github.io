@@ -26,8 +26,6 @@ layout: single
 
 <p style="font-style:0.9em"><b>Is There Too Little Antitrust Enforcement in the US Hospital Sector?,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, and Lev Klarnet</i>, conditionally accepted at AER Insights</p>
 
-<p style="font-style:0.9em"><b>'Rational Overeating' in a Feast-or-Famine World: Economic Security and the Obesity Epidemic,</b> <i>with Trenton G. Smith and Steven Stillman</i>, accepted at Southern Economic Journal</p>
-
 <p style="font-style:0.9em"><b>Who Bears the Burden of Rising Health Care Spending in the US? Evidence from Hospital Mergers,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, Lev Klarnet and Ithai Lurie</i></p>
 
 <p style="font-style:0.9em"><b>Are Hospital Acquisitions of Physician Practices Anticompetitive?,</b> <i>with Zack Cooper, Matthew Grennan, Joseph Martinez, Fiona Scott Morton, and Ashley Swanson</i></p>
@@ -40,6 +38,27 @@ layout: single
 <h1 align="center">Published Papers</h1>
 
 ## Economics
+
+<!--- Merger Heterogeneity --->
+<p style="font-style:0.9em"><b><a href="https://www.aeaweb.org/articles?id=10.1257/aeri.20230340">Is There Too Little Antitrust Enforcement in the U.S. Hospital Sector?</a> American Economic Review: Insights, forthcoming,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, and Lev Klarnet</i></p>
+<div class="content">
+<div class="row">
+  <div class="col">
+    <p style="font-size:0.8em"> From 2002 to 2020, there were over 1,000 mergers of US hospitals. During this period, the Federal Trade Commission (FTC) took enforcement actions against 13 transactions. However, using the FTC’s standard screening tools, we find that 20% of these mergers could have been predicted to meaningfully lessen competition. We then show that, from 2010 to 2015, predictably anticompetitive mergers resulted in price increases over 5%. We estimate that approximately half of predictably anticompetitive mergers had to be reported to the FTC per the Hart-Scott-Rodino Act. We conclude that there appears to be underenforcement of antitrust laws in the hospital sector.</p>
+  </div>
+  <div class="col">
+    <img src="https://stuartcraig.github.io/files/bgcck_thumb.png">
+  </div>
+</div>
+<div class="row">
+<div class="col">
+    <p style="font-size:0.8em;margin-left=3em">Final pre-print: <a href="https://stuartcraig.github.io/files/BGCCK_mergerhet.pdf" target="_blank">April, 2024</a></p>
+    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.wsj.com/health/healthcare/the-true-cost-of-megamergers-in-healthcare-higher-prices-5c58e8db?st=vw8ccylhyowkfk9" target="_blank">WSJ</a></p>, <a href="https://www.axios.com/2024/04/24/hospital-antitrust-enforcement" target="_blank">Axios</a></p>, <a href="https://www.statnews.com/2024/04/24/ftc-antitrust-hospital-mergers/" target="_blank">Stat</a></p>
+</div>
+</div>
+</div>
+
+
 
 <!--- Price Variation Between Payers --->
 <p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/w25190.pdf">How Important Is Price variation Between Health Insurers?</a> Journal of Health Economics, 2021,</b> <i>with Keith Ericson and Amanda Starc</i></p>
@@ -105,6 +124,27 @@ layout: single
 
 
 ## Health, Policy, Measurement
+
+
+<!--- Obesity --->
+<p style="font-style:0.9em"><b><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/soej.12670">'Rational Overeating' in a Feast-or-Famine World: Economic Security and the Obesity Epidemic,</a> Southern Economic Journal, 2023,</b> <i>with Trenton G. Smith and Steven Stillman</i></p>
+<div class="content">
+<div class="row">
+  <div class="col">
+    <p style="font-size:0.8em">We investigate the potential role of economic insecurity - the extent to which a household faces the threat of catastrophic income loss — in explaining these changes. We construct a synthetic panel of demographic groups for 1988–2016 by combining the Economic Security Index (which measures the probability of a year-on-year drop in adjusted household income of 25% or more) with data from the NHANES surveys. We find robust evidence of a link between economic insecurity and obesity, suggesting a nearly one-to-one correspondence in percentage point changes in ESI and obesity, for both men and women.</p>
+  </div>
+  <div class="col">
+    <img src="https://stuartcraig.github.io/files/obesity_thumb.png">
+  </div>
+</div>
+</div>
+
+
+
+
+ 
+
+
 
 <!--- Medicaid Expansion --->
 <p style="font-style:0.9em"><b><a href="https://doi.org/10.1016/j.ajog.2020.08.007">Impact of Medicaid Expansion on Women with Gynecologic Cancer: a Difference-in-Difference Analysis,</a> American Journal of Obstetrics and Gynecology, 2020,</b> <i>with Benjamin B. Albright, Dimitrios Nasioudis, Haley A. Moss, Nawar A. Latif, Emily M. Ko, and Ashley F. Haggerty</i></p>
