@@ -146,6 +146,7 @@ layout: single
 
 
 <!--- Medicaid Expansion --->
+<br>
 <p style="font-style:0.9em"><b><a href="https://doi.org/10.1016/j.ajog.2020.08.007">Impact of Medicaid Expansion on Women with Gynecologic Cancer: a Difference-in-Difference Analysis,</a> American Journal of Obstetrics and Gynecology, 2020,</b> <i>with Benjamin B. Albright, Dimitrios Nasioudis, Haley A. Moss, Nawar A. Latif, Emily M. Ko, and Ashley F. Haggerty</i></p>
 <div class="content">
 <div class="row">
