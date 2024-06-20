@@ -51,7 +51,7 @@ layout: single
 </div>
 <div class="row">
 <div class="col">
-    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.wsj.com/health/healthcare/the-true-cost-of-megamergers-in-healthcare-higher-prices-5c58e8db?st=vw8ccylhyowkfk9" target="_blank">WSJ</a>, <a href="https://www.axios.com/2024/04/24/hospital-antitrust-enforcement" target="_blank">Axios</a>, <a href="https://www.statnews.com/2024/04/24/ftc-antitrust-hospital-mergers/" target="_blank">Stat</a></p>
+    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.wsj.com/health/healthcare/the-true-cost-of-megamergers-in-healthcare-higher-prices-5c58e8db?st=vw8ccylhyowkfk9" target="_blank">WSJ</a>, <a href="https://www.axios.com/2024/04/24/hospital-antitrust-enforcement" target="_blank">Axios</a>, <a href="https://www.statnews.com/2024/04/24/ftc-antitrust-hospital-mergers/" target="_blank">Stat</a>, <a href="https://www.modernhealthcare.com/mergers-acquisitions/antitrust-enforcement-falls-short-hospital-mergers-study">Modern Healthcare</a></p>
 </div>
 </div>
 </div>
