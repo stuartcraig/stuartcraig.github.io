@@ -25,7 +25,7 @@ layout: single
 </div>
 
 <!--- Prices, Spending, Labor Market --->
-<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/who_pays_for_rising_prices.pdf">How Pays for Rising Health Care Prices? Evidence from Hospital Mergers,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, Lev Klarnet, Ithai Lurie, and Corbin Miller.</i> <a href="https://www.nber.org/papers/w32613">NBER Working Paper 32613</a></p>
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/who_pays_for_rising_prices.pdf">How Pays for Rising Health Care Prices? Evidence from Hospital Mergers,</b></a> <i>with Zarek Brot-Goldberg, Zack Cooper, Lev Klarnet, Ithai Lurie, and Corbin Miller.</i> <a href="https://www.nber.org/papers/w32613">NBER Working Paper 32613.</a></p>
 <div class="content">
 <div class="row">
   <div class="col">
