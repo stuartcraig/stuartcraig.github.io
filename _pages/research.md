@@ -24,7 +24,24 @@ layout: single
 </div>
 </div>
 
-<p style="font-style:0.9em"><b>Who Bears the Burden of Rising Health Care Spending in the US? Evidence from Hospital Mergers,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, Lev Klarnet and Ithai Lurie</i></p>
+<!--- Prices, Spending, Labor Market --->
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/who_pays_for_rising_prices.pdf">How Pays for Rising Health Care Prices? Evidence from Hospital Mergers,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, Lev Klarnet, Ithai Lurie, and Corbin Miller.</i> <a href="https://www.nber.org/papers/w32613">NBER Working Paper 32613</a></p>
+<div class="content">
+<div class="row">
+  <div class="col">
+    <p style="font-size:0.8em"> We analyze the economic consequences of rising health care prices in the US. Using exposure to price increases caused by horizontal hospital mergers as an instrument, we show that rising prices raise the cost of labor by increasing employer-sponsored health insurance premiums. A 1% increase in health care prices lowers both payroll and employment at firms outside the health sector by approximately 0.4%. At the county level, a 1% increase in health care prices reduces per capita labor income by 0.27%, increases flows into unemployment by approximately 0.1 percentage points (1%), lowers federal income tax receipts by 0.4%, and increases unemployment insurance payments by 2.5%. The increases in unemployment we observe are concentrated among workers earning between $20,000 and $100,000 annually. Finally, we estimate that a 1% increase in health care prices leads to a 1 per 100,000 population (2.7%) increase in deaths from suicides and overdoses. This implies that approximately 1 in 140 of the individuals who become fully separated from the labor market after health care prices increase die from a suicide or drug overdose.</p>
+  </div>
+  <div class="col">
+    <img src="https://stuartcraig.github.io/files/whopays_thumb.png">
+  </div>
+</div>
+<div class="row">
+<div class="col">
+    <p style="font-size:0.8em;margin-left=3em">Press: <a href="https://www.wsj.com/health/healthcare/hospital-healthcare-prices-increase-employee-layoffs-9a4b90f6" target="_blank">WSJ</a></p>
+</div>
+</div>
+</div>
+
 
 <p style="font-style:0.9em"><b>Are Hospital Acquisitions of Physician Practices Anticompetitive?,</b> <i>with Zack Cooper, Matthew Grennan, Joseph Martinez, Fiona Scott Morton, and Ashley Swanson</i></p>
 
