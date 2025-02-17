@@ -44,6 +44,10 @@ layout: single
 </div>
 
 
+<a href="https://www.wsj.com/health/healthcare/hospital-healthcare-prices-increase-employee-layoffs-9a4b90f6" target="_blank">WSJ</a>, <a href="https://www.axios.com/2024/06/24/health-costs-jobs-unemployment" target="_blank">Axios</a>, <a href="https://www.npr.org/2024/06/28/1197967373/debate-indicator-cows-healthcare-banks-climate" target="_blank">Planet Money</a>, <a href="https://www.modernhealthcare.com/finance/hospital-mergers-prices-tax-revenue-job-loss" target="_blank">Modern Healthcare</a>, <a href="https://www.fastcompany.com/91145592/health-care-insurance-costs-job-layoffs-study" target="_blank">Fast Company</a>, <a href="https://www.beckershospitalreview.com/finance/hospital-price-increases-push-up-unemployment-levels-national-study-finds.html" target="_blank">Becker's Hospital Review</a>
+
+
+
 <p style="font-style:0.9em"><b>Are Hospital Acquisitions of Physician Practices Anticompetitive?,</b> <i>with Zack Cooper, Matthew Grennan, Joseph Martinez, Fiona Scott Morton, and Ashley Swanson</i></p>
 
 <p style="font-style:0.9em"><b>Health Care Spending Effects of Patients, Providers, and Places: Evidence from the Military Health System,</b> <i>with Amy Bond and Steve Schwab</i></p>
