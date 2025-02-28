@@ -60,7 +60,7 @@ layout: single
 ## Economics
 
 <!--- Merger Heterogeneity --->
-<p style="font-style:0.9em"><b><a href="https://www.aeaweb.org/articles?id=10.1257/aeri.20230340">Is There Too Little Antitrust Enforcement in the U.S. Hospital Sector?</a> American Economic Review: Insights, forthcoming,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, and Lev Klarnet</i></p>
+<p style="font-style:0.9em"><b><a href="https://www.aeaweb.org/articles?id=10.1257/aeri.20230340">Is There Too Little Antitrust Enforcement in the U.S. Hospital Sector?</a> American Economic Review: Insights, 2024,</b> <i>with Zarek Brot-Goldberg, Zack Cooper, and Lev Klarnet</i></p>
 <div class="content">
 <div class="row">
   <div class="col">
