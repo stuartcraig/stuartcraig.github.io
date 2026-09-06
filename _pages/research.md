@@ -145,8 +145,8 @@ layout: single
 
 
 
-<!--- Obesity --->
-<p style="font-style:0.9em"><b><a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853324">'Health Care Spending and Insurance Premiums Among the Privately Insured,</a> JAMA Health Forum, 2026,</b> <i>with Zack Cooper</i></p>
+<!--- Premium growth --->
+<p style="font-style:0.9em"><b><a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853324">Health Care Spending and Insurance Premiums Among the Privately Insured,</a> JAMA Health Forum, 2026,</b> <i>with Zack Cooper</i></p>
 <div class="content">
 <div class="row">
   <div class="col">
@@ -163,6 +163,7 @@ layout: single
 
 
 <!--- Obesity --->
+<br>
 <p style="font-style:0.9em"><b><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/soej.12670">'Rational Overeating' in a Feast-or-Famine World: Economic Security and the Obesity Epidemic,</a> Southern Economic Journal, 2023,</b> <i>with Trenton G. Smith and Steven Stillman</i></p>
 <div class="content">
 <div class="row">
