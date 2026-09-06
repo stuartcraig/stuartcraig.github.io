@@ -26,7 +26,7 @@ layout: single
 
 <!--- Prices, Spending, Labor Market --->
 <br>
-<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/who_pays_for_rising_prices.pdf">Who Pays for Rising Health Care Prices? Evidence from Hospital Mergers,</a></b> <i>with Zarek Brot-Goldberg, Zack Cooper, Lev Klarnet, Ithai Lurie, and Corbin Miller.</i> <b><a href="https://www.nber.org/papers/w32613">NBER Working Paper 32613.</a></b> <i>Revisions Requested at AER</i> </p>
+<p style="font-style:0.9em"><b><a href="https://stuartcraig.github.io/files/who_pays_for_rising_prices.pdf">Who Pays for Rising Health Care Prices? Evidence from Hospital Mergers,</a></b> <i>with Zarek Brot-Goldberg, Zack Cooper, Lev Klarnet, Ithai Lurie, and Corbin Miller.</i> <b><a href="https://www.nber.org/papers/w32613">NBER Working Paper 32613.</a></b> <i>Conditionally Accepted at AER</i> </p>
 <div class="content">
 <div class="row">
   <div class="col">
@@ -142,6 +142,24 @@ layout: single
 
 
 ## Health, Policy, Measurement
+
+
+
+<!--- Obesity --->
+<p style="font-style:0.9em"><b><a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853324">'Health Care Spending and Insurance Premiums Among the Privately Insured,</a> JAMA Health Forum, 2026,</b> <i>with Zack Cooper</i></p>
+<div class="content">
+<div class="row">
+  <div class="col">
+    <p style="font-size:0.8em">We measure trends in health insurance premiums and the underlying health spending that is covered by insurance. We find that 91% of premium growth between 2011-2024 can be explained by increases in health spending. In fact, insurer markups declined over the study period. Our results suggest that efforts to address affordability of health insurance should focus on inefficient sources of spending on health care services. 
+    </p>
+  </div>
+  <div class="col">
+    <img src="https://stuartcraig.github.io/files/CC_premiumgrowth_thumb.png">
+  </div>
+</div>
+</div>
+
+
 
 
 <!--- Obesity --->
